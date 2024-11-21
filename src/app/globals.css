@@ -2,20 +2,63 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/*:root {
+	--background: #ffffff;
+	--foreground: #171717;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+	:root {
+	--background: #0a0a0a;
+	--foreground: #ededed;
+	}
+}*/
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+	background-color: grey;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+}
+
+.top {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100px;
+	position: relative;
+}
+
+.collection {
+	margin: 20px;
+	display: grid;
+	grid-template-rows: repeat(auto-fit);
+	grid-template-columns: repeat(8, 1fr);
+	justify-content: start;
+	justify-items: stretch;
+	border: 2px solid black;
+}
+
+.card {
+	max-height: 250px;
+	max-width: 200px;
+	border: 2px solid black;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	overflow: hidden;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	height: 40px;
+	width: 100%;
 }

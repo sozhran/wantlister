@@ -8,7 +8,7 @@ export interface Pagination {
 	pages: number;
 	per_page: number;
 	items: number;
-	urls: { "last": string, "next": string };
+	urls: { last: string; next: string };
 }
 
 export interface DiscogWantlistRecord {
@@ -18,7 +18,7 @@ export interface DiscogWantlistRecord {
 	rating: number;
 	basic_information: BasicInformation;
 }
-  
+
 export interface BasicInformation {
 	id: number;
 	master_id?: number;
@@ -32,15 +32,15 @@ export interface BasicInformation {
 	styles: string[];
 	artists: Artist[];
 	formats: Formats[];
-  }
-  
+}
+
 interface Formats {
 	descriptions: string[];
 	name: string;
 	qty: string;
 	text?: string;
-  }
-  
+}
+
 export interface Artist {
 	anv: string;
 	id: string;
@@ -48,5 +48,5 @@ export interface Artist {
 	resource_url: string;
 	role: string;
 	tracks: string;
-	join?: string
-  }
+	join?: string;
+}
