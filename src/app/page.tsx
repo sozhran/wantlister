@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { DiscogWantlistResponse, DiscogWantlistRecord } from "@/lib/DiscogWantlist";
+import DiscogRecordTile from "@/components/DiscogRecordTile";
 
 const discogsUrl = "https://api.discogs.com/users/sozhran/wants";
 
@@ -12,7 +13,7 @@ async function getDiscogsInfo() {
 
 	for (let i = 1; i < pageLimit; i++) {
 		try {
-			const response = await fetch(`${discogsUrl}` + `?per_page=5&sort=rating&sort_order=desc&key=${key}&secret=${secret}`, { method: "GET", headers: {} });
+			const response = await fetch(`${discogsUrl}` + `?per_page=20&sort=rating&sort_order=desc&key=${key}&secret=${secret}`, { method: "GET", headers: {} });
 			const data = (await response.json()) as DiscogWantlistResponse;
 
 			data.wants.map((item: DiscogWantlistRecord) => records.push(item));
@@ -38,21 +39,7 @@ export default async function Home() {
 					<h1>Total: {records ? records.length : "¯_(ツ)_/¯"}</h1>
 				</section>
 
-				<section className="collection">
-					{records ? (
-						records.map((record: DiscogWantlistRecord, i) => (
-							<div key={"record_" + i} className="card">
-								<Image src={record.basic_information.cover_image} alt={record.basic_information.title} width="200" height="200" />
-								<p>
-									<b>{record.basic_information.artists.map((artist) => artist.name).join(" / ")}</b>
-								</p>
-								<p>{record.basic_information.title}</p>
-							</div>
-						))
-					) : (
-						<></>
-					)}
-				</section>
+				<section className="collection">{records ? records.map((record: DiscogWantlistRecord, i: number) => <DiscogRecordTile record={record} i={i} />) : <></>}</section>
 			</section>
 
 			<section className="footer">
