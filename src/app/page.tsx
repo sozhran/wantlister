@@ -1,18 +1,14 @@
 import Image from "next/image";
 import { WantlistResponse, WantlistRecord } from "@/lib/DiscogsInterfaces";
 import RecordTile from "@/components/DiscogRecordTile";
-import { getDiscogsInfo } from "@/functions/DiscogsProcessing";
+import { getDiscogsInfo, retrieveRatedList } from "@/functions/DiscogsProcessing";
 import Header from "@/components/Header";
-
-const discogsUrl = "https://api.discogs.com/users/sozhran/wants";
-const secret = process.env.NEXT_PUBLIC_CONSUMER_SECRET;
-const key = process.env.NEXT_PUBLIC_CONSUMER_KEY;
 
 const pageLimit = 20; // depends on the Wantlist size and may be changed later
 
 export default async function Home() {
 	const records = await getDiscogsInfo(pageLimit);
-	//const records = JSON.parse(records1);
+	const stats = await retrieveRatedList();
 
 	return (
 		<>
@@ -33,9 +29,7 @@ export default async function Home() {
 				</div>
 			</section>
 			<br />
-
-			{/*<p>ПРОСТЫНЯ</p>
-			<p>{JSON.stringify(records)}</p>*/}
+			{stats ? stats.length : "nope"}
 		</>
 	);
 }

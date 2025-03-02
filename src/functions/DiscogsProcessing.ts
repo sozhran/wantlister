@@ -1,13 +1,44 @@
 import { WantlistRecord, WantlistResponse } from "@/lib/DiscogsInterfaces";
-import localData from "@/localdata/localdata1.json";
 
 const discogsUrl = "https://api.discogs.com/users/sozhran/wants";
-const secret = process.env.NEXT_PUBLIC_CONSUMER_SECRET;
+const token = process.env.DISCOGS_TOKEN;
 const key = process.env.NEXT_PUBLIC_CONSUMER_KEY;
+const secret = process.env.NEXT_PUBLIC_CONSUMER_SECRET;
+const pageLimit = 11;
+
+export async function retrieveRatedList() {
+	if (!token) {
+		return;
+	}
+
+	const ids: number[] = [];
+
+	for (let i = 1; i < pageLimit; i++) {
+		const response = await fetch(
+			`${discogsUrl}` +
+				new URLSearchParams({
+					page: i.toString(),
+					per_page: "100",
+					sort: "rating",
+					sort_order: "desc",
+					token: token,
+				})
+		);
+		const data = (await response.json()) as WantlistResponse;
+
+		data.wants.map((item: WantlistRecord) => {
+			if (item.rating > 0) {
+				ids.push(item.id);
+			}
+		});
+	}
+
+	return ids;
+}
 
 export async function getDiscogsInfo(pageLimit: number) {
 	try {
-		const response = await fetch(`${discogsUrl}` + `?per_page=${pageLimit}&sort=rating&sort_order=desc&key=${key}&secret=${secret}`, { method: "GET", headers: {} });
+		const response = await fetch(`${discogsUrl}` + `?per_page=${pageLimit}&sort=rating&sort_order=desc&token=${token}`, { method: "GET", headers: {} });
 		const data = (await response.json()) as WantlistResponse;
 
 		return data.wants;

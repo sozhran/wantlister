@@ -1,8 +1,8 @@
 import Image from "next/image";
-import { DiscogWantlistRecord } from "@/lib/DiscogWantlist";
+import { WantlistRecord } from "@/lib/DiscogsInterfaces";
 
 interface Props {
-	record: DiscogWantlistRecord;
+	record: WantlistRecord;
 	i: number;
 }
 
@@ -29,9 +29,11 @@ export default function DiscogRecordTile({ record, i }: Props) {
 			</div>
 			<div>
 				<p>
-					<b>{record.basic_information.artists.map((artist) => artist.name).join(" / ")}</b>
+					<b>{record.basic_information.artists.map((artist: any) => artist.name).join(" / ")}</b>
 				</p>
-				<p>{record.basic_information.title}</p>
+				<p>
+					{record.basic_information.title}, {record.rating}
+				</p>
 			</div>
 		</div>
 	);
