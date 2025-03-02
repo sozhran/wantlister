@@ -1,22 +1,9 @@
-export interface DiscogWantlistResponse {
-	pagination: Pagination;
-	wants: DiscogWantlistRecord[];
-}
-
 export interface Pagination {
 	page: number;
 	pages: number;
 	per_page: number;
 	items: number;
 	urls: { last: string; next: string };
-}
-
-export interface DiscogWantlistRecord {
-	id: number;
-	resource_url: string;
-	date_added: string;
-	rating: number;
-	basic_information: BasicInformation;
 }
 
 export interface BasicInformation {
@@ -50,3 +37,35 @@ export interface Artist {
 	tracks: string;
 	join?: string;
 }
+
+// WANTLIST INTERFACES
+
+export interface WantlistResponse {
+	pagination: Pagination;
+	wants: WantlistRecord[];
+}
+
+export interface WantlistRecord {
+	id: number;
+	resource_url: string;
+	date_added: string;
+	rating: number;
+	basic_information: BasicInformation;
+}
+
+// USER COLLECTION INTERFACES
+
+export interface CollectionResponse {
+	pagination: Pagination;
+	releases: CollectionRecord[];
+}
+
+export interface CollectionRecord {
+	id: number;
+	instance_id: number;
+	date_added: string;
+	rating: number;
+	basic_information: BasicInformation;
+}
+
+// MARKETPLACE INTERFACES

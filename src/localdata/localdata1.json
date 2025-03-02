@@ -1,0 +1,2214 @@
+[
+	{
+		"id": 381946,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/381946",
+		"date_added": "2016-06-30T06:11:52-07:00",
+		"basic_information": {
+			"id": 381946,
+			"master_id": 14413,
+			"master_url": "https://api.discogs.com/masters/14413",
+			"resource_url": "https://api.discogs.com/releases/381946",
+			"title": "Vinterskugge",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Compilation"] }],
+			"artists": [{ "name": "Isengard", "anv": "", "join": "", "role": "", "tracks": "", "id": 261482, "resource_url": "https://api.discogs.com/artists/261482" }],
+			"labels": [{ "name": "Deaf Records", "catno": "Deaf 16CD", "entity_type": "1", "entity_type_name": "Label", "id": 33162, "resource_url": "https://api.discogs.com/labels/33162" }],
+			"thumb": "https://i.discogs.com/9coOg31egLUCJJCkzSokLGdW5CgzDw63OdF4NZnQVJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTk0/Ni0xMjcyODM2NDY0/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/0jVpzo9y8-JyxLaEVrWsezPOqncpviifSKgZUrBBTTM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTk0/Ni0xMjcyODM2NDY0/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal", "Black Metal", "Doom Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2653591,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2653591",
+		"date_added": "2017-01-04T05:25:00-08:00",
+		"basic_information": {
+			"id": 2653591,
+			"master_id": 301694,
+			"master_url": "https://api.discogs.com/masters/301694",
+			"resource_url": "https://api.discogs.com/releases/2653591",
+			"title": "True Crime",
+			"year": 1999,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Compilation"] }],
+			"artists": [{ "name": "Zeke", "anv": "", "join": "", "role": "", "tracks": "", "id": 267067, "resource_url": "https://api.discogs.com/artists/267067" }],
+			"labels": [{ "name": "Dropkick", "catno": "Behind-002", "entity_type": "1", "entity_type_name": "Label", "id": 93556, "resource_url": "https://api.discogs.com/labels/93556" }],
+			"thumb": "https://i.discogs.com/qVug3icwwfYtfmWqe-rZTZOzOpzie73YiEwzkyxeK0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM1/OTEtMTMyODgwNTY1/NS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/HG_it2K4YnJFZu_eF978Xv7z3ChYd-sJ2F_AUH8WoCo/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTM1/OTEtMTMyODgwNTY1/NS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Punk", "Garage Rock"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2216676,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2216676",
+		"date_added": "2017-04-21T10:54:08-07:00",
+		"basic_information": {
+			"id": 2216676,
+			"master_id": 5119,
+			"master_url": "https://api.discogs.com/masters/5119",
+			"resource_url": "https://api.discogs.com/releases/2216676",
+			"title": "Stormblåst",
+			"year": 1996,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Dimmu Borgir", "anv": "", "join": "", "role": "", "tracks": "", "id": 108948, "resource_url": "https://api.discogs.com/artists/108948" }],
+			"labels": [{ "name": "Cacophonous Records", "catno": "NIHIL 12CD", "entity_type": "1", "entity_type_name": "Label", "id": 30083, "resource_url": "https://api.discogs.com/labels/30083" }],
+			"thumb": "https://i.discogs.com/lqIpf3IrdXOfZMiS-9ePtJa_O-WjvssahsoSklTxs44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTY2/NzYtMTI3MDM5MzUz/My5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/fxKXENtW8vlrk4rvbLokQ_TA2RHazFxRkwXa9XECEQ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTY2/NzYtMTI3MDM5MzUz/My5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3590271,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3590271",
+		"date_added": "2017-01-04T05:26:35-08:00",
+		"basic_information": {
+			"id": 3590271,
+			"master_id": 3156609,
+			"master_url": "https://api.discogs.com/masters/3156609",
+			"resource_url": "https://api.discogs.com/releases/3590271",
+			"title": "Pinstriping The Dutchman's Coffin",
+			"year": 1999,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Zeke", "anv": "", "join": "", "role": "", "tracks": "", "id": 267067, "resource_url": "https://api.discogs.com/artists/267067" }],
+			"labels": [{ "name": "Wrecking Ball Records (2)", "catno": "WBCD008", "entity_type": "1", "entity_type_name": "Label", "id": 389472, "resource_url": "https://api.discogs.com/labels/389472" }],
+			"thumb": "https://i.discogs.com/HDjaRbCEL3SlEG2_qZxf0Tg9-o4frQkEzOI923f5qGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTAy/NzEtMTMzNjQ5MDIw/Ni5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/FfsH5hZq9r0yhCd6hYcoPku0AE20OQXtgeBzzffw7tU/rs:fit/g:sm/q:90/h:277/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTAy/NzEtMTMzNjQ5MDIw/Ni5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Punk"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3127091,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3127091",
+		"date_added": "2017-01-04T05:30:19-08:00",
+		"basic_information": {
+			"id": 3127091,
+			"master_id": 372823,
+			"master_url": "https://api.discogs.com/masters/372823",
+			"resource_url": "https://api.discogs.com/releases/3127091",
+			"title": "Peter Pan Speedrock / Zeke",
+			"year": 2005,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": [] }],
+			"artists": [
+				{ "name": "Peter Pan Speedrock", "anv": "", "join": "/", "role": "", "tracks": "", "id": 252430, "resource_url": "https://api.discogs.com/artists/252430" },
+				{ "name": "Zeke", "anv": "", "join": "", "role": "", "tracks": "", "id": 267067, "resource_url": "https://api.discogs.com/artists/267067" }
+			],
+			"labels": [{ "name": "Bitzcore", "catno": "bc 1756", "entity_type": "1", "entity_type_name": "Label", "id": 33303, "resource_url": "https://api.discogs.com/labels/33303" }],
+			"thumb": "https://i.discogs.com/UnWjpQ63IfOlOMbe5wn-R_uXs-St__Cu7D6UcOLh3e8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjcw/OTEtMTUxMzY2OTUw/OC05MzUzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/go34PHunrukv-aLmFYSRKJ8D9pJ-b9o6qF6S6MztLdg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjcw/OTEtMTUxMzY2OTUw/OC05MzUzLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Garage Rock", "Punk"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 654642,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/654642",
+		"date_added": "2016-11-10T01:35:20-08:00",
+		"basic_information": {
+			"id": 654642,
+			"master_id": 265023,
+			"master_url": "https://api.discogs.com/masters/265023",
+			"resource_url": "https://api.discogs.com/releases/654642",
+			"title": "Inn I Evighetens Mørke",
+			"year": 1994,
+			"formats": [{ "name": "Vinyl", "qty": "1", "descriptions": ["7\"", "33 ⅓ RPM"] }],
+			"artists": [{ "name": "Dimmu Borgir", "anv": "", "join": "", "role": "", "tracks": "", "id": 108948, "resource_url": "https://api.discogs.com/artists/108948" }],
+			"labels": [{ "name": "Necromantic Gallery Productions", "catno": "NGP 004", "entity_type": "1", "entity_type_name": "Label", "id": 34451, "resource_url": "https://api.discogs.com/labels/34451" }],
+			"thumb": "https://i.discogs.com/qr9BrPRW5JcMzMLqFlRZdEq8L8QDebiiDEBOOfZgDTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDY0/Mi0xNjE1NTcyOTEy/LTc3NjIuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/tI-Tm0zxg-eQoIyxwPXQmB9wryb9A3Kv6qER7ZyLkSA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDY0/Mi0xNjE1NTcyOTEy/LTc3NjIuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 381673,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/381673",
+		"date_added": "2016-06-30T06:12:01-07:00",
+		"basic_information": {
+			"id": 381673,
+			"master_id": 14406,
+			"master_url": "https://api.discogs.com/masters/14406",
+			"resource_url": "https://api.discogs.com/releases/381673",
+			"title": "Høstmørke",
+			"year": 1995,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Isengard", "anv": "", "join": "", "role": "", "tracks": "", "id": 261482, "resource_url": "https://api.discogs.com/artists/261482" }],
+			"labels": [{ "name": "Moonfog Productions", "catno": "Fog 007", "entity_type": "1", "entity_type_name": "Label", "id": 19399, "resource_url": "https://api.discogs.com/labels/19399" }],
+			"thumb": "https://i.discogs.com/cFvCKmbiRs4zYUeAoukbZUPCJzLJ7iKCzms_TOQ5lRU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY3/My0xNzEwNTE2NDcy/LTM3MzQuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/ahT2zFu0q1MBwtXqvS7S_gy2lfKuEsPy27kyr1imi-E/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY3/My0xNzEwNTE2NDcy/LTM3MzQuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal", "Black Metal", "Neofolk"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 368846,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/368846",
+		"date_added": "2017-04-21T10:46:14-07:00",
+		"basic_information": {
+			"id": 368846,
+			"master_id": 12667,
+			"master_url": "https://api.discogs.com/masters/12667",
+			"resource_url": "https://api.discogs.com/releases/368846",
+			"title": "For All Tid",
+			"year": 1995,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Dimmu Borgir", "anv": "", "join": "", "role": "", "tracks": "", "id": 108948, "resource_url": "https://api.discogs.com/artists/108948" }],
+			"labels": [
+				{ "name": "No Colours Records", "catno": "NC 003", "entity_type": "1", "entity_type_name": "Label", "id": 32541, "resource_url": "https://api.discogs.com/labels/32541" },
+				{ "name": "No Colours Records", "catno": "CM 02", "entity_type": "1", "entity_type_name": "Label", "id": 32541, "resource_url": "https://api.discogs.com/labels/32541" }
+			],
+			"thumb": "https://i.discogs.com/0dh0JwZKfvx1TT73U2d5bU4O9TA6VCo-flaeIR4F7Ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODg0/Ni0xMzYzMzc5NjY4/LTgyODUuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/e71tk9z4rW4-shp118gbf9FQuIrT5HJTzPx1hd76p3U/rs:fit/g:sm/q:90/h:593/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODg0/Ni0xMzYzMzc5NjY4/LTgyODUuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3792175,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3792175",
+		"date_added": "2018-10-21T01:31:06-07:00",
+		"basic_information": {
+			"id": 3792175,
+			"master_id": 1418619,
+			"master_url": "https://api.discogs.com/masters/1418619",
+			"resource_url": "https://api.discogs.com/releases/3792175",
+			"title": "Dölphenwülf",
+			"year": 2004,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["EP", "Promo"] }],
+			"artists": [{ "name": "Zeke", "anv": "", "join": "", "role": "", "tracks": "", "id": 267067, "resource_url": "https://api.discogs.com/artists/267067" }],
+			"labels": [{ "name": "Relapse Records", "catno": "ZEKE04", "entity_type": "1", "entity_type_name": "Label", "id": 3949, "resource_url": "https://api.discogs.com/labels/3949" }],
+			"thumb": "https://i.discogs.com/uyxILhfVdx5NYuB7btiSu7Pu4B0_qr5wwlI5ndpGJhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTIx/NzUtMTM4NTMyOTk1/NC0xMjY3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/7UtB8smYUQ4ryt0DEq6VF22v63JFf7DW3Z0rjrJmuU8/rs:fit/g:sm/q:90/h:364/w:376/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTIx/NzUtMTM4NTMyOTk1/NC0xMjY3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Punk", "Hardcore"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2859060,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2859060",
+		"date_added": "2019-05-20T08:53:38-07:00",
+		"basic_information": {
+			"id": 2859060,
+			"master_id": 425739,
+			"master_url": "https://api.discogs.com/masters/425739",
+			"resource_url": "https://api.discogs.com/releases/2859060",
+			"title": "Неизбежность",
+			"year": 2005,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition"], "text": "Booklet" }],
+			"artists": [{ "name": "Amatory", "anv": "[Amatory]", "join": "", "role": "", "tracks": "", "id": 919838, "resource_url": "https://api.discogs.com/artists/919838" }],
+			"labels": [{ "name": "Kapkan Records", "catno": "KA 099", "entity_type": "1", "entity_type_name": "Label", "id": 38993, "resource_url": "https://api.discogs.com/labels/38993" }],
+			"thumb": "https://i.discogs.com/HApFkaLOdEyss96VljDx1-JDMzuh_X_4Ps-pLUQZ9-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkw/NjAtMTQzNTg2ODIy/OS03NDA2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/Qb_0SPvKSbz50T_WDpz_r51mOrwbBUk4tfN4ovDS5tw/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkw/NjAtMTQzNTg2ODIy/OS03NDA2LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Alternative Metal", "Metalcore", "Nu Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 5176592,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/5176592",
+		"date_added": "2024-01-30T03:02:23-08:00",
+		"basic_information": {
+			"id": 5176592,
+			"master_id": 90430,
+			"master_url": "https://api.discogs.com/masters/90430",
+			"resource_url": "https://api.discogs.com/releases/5176592",
+			"title": "Walls Of Jericho",
+			"year": 1988,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Repress"] }],
+			"artists": [{ "name": "Helloween", "anv": "", "join": "", "role": "", "tracks": "", "id": 252425, "resource_url": "https://api.discogs.com/artists/252425" }],
+			"labels": [
+				{ "name": "Combat", "catno": "88561-8093-2", "entity_type": "1", "entity_type_name": "Label", "id": 33100, "resource_url": "https://api.discogs.com/labels/33100" },
+				{ "name": "Noise (3)", "catno": "88561-8093-2", "entity_type": "1", "entity_type_name": "Label", "id": 161255, "resource_url": "https://api.discogs.com/labels/161255" }
+			],
+			"thumb": "https://i.discogs.com/69gBew5mkawRVbvqfY5WM2x_xXtwzDrEYBcGAJ4dYGk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzY1/OTItMTM4NjYwMjg1/Ni04MDY2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/DusB9QT9G6aAzHoqowUsV0nD21arLIOakkAc6IJ70cE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNzY1/OTItMTM4NjYwMjg1/Ni04MDY2LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Speed Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1549487,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1549487",
+		"date_added": "2024-01-30T03:02:02-08:00",
+		"basic_information": {
+			"id": 1549487,
+			"master_id": 90430,
+			"master_url": "https://api.discogs.com/masters/90430",
+			"resource_url": "https://api.discogs.com/releases/1549487",
+			"title": "Walls Of Jericho",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition", "Remastered"] }],
+			"artists": [{ "name": "Helloween", "anv": "", "join": "", "role": "", "tracks": "", "id": 252425, "resource_url": "https://api.discogs.com/artists/252425" }],
+			"labels": [{ "name": "Victor", "catno": "VICP-5455", "entity_type": "1", "entity_type_name": "Label", "id": 61808, "resource_url": "https://api.discogs.com/labels/61808" }],
+			"thumb": "https://i.discogs.com/Kg68iu7kO2shbeiDEgojSzchmEB8hx52M6C7swFL6TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk0/ODctMTIyODI5Mzkw/MC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/dpbVit5RoY_fJZ9y8GWA-E6hQSgjpjezu_deeAL5tfk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk0/ODctMTIyODI5Mzkw/MC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Speed Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2655862,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2655862",
+		"date_added": "2016-12-05T07:05:26-08:00",
+		"basic_information": {
+			"id": 2655862,
+			"master_id": 90430,
+			"master_url": "https://api.discogs.com/masters/90430",
+			"resource_url": "https://api.discogs.com/releases/2655862",
+			"title": "Walls Of Jericho",
+			"year": 1986,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Helloween", "anv": "", "join": "", "role": "", "tracks": "", "id": 252425, "resource_url": "https://api.discogs.com/artists/252425" }],
+			"labels": [
+				{ "name": "Noise (3)", "catno": "88561-8093 2", "entity_type": "1", "entity_type_name": "Label", "id": 161255, "resource_url": "https://api.discogs.com/labels/161255" },
+				{ "name": "Combat", "catno": "88561-8093-2", "entity_type": "1", "entity_type_name": "Label", "id": 33100, "resource_url": "https://api.discogs.com/labels/33100" }
+			],
+			"thumb": "https://i.discogs.com/CbvUeLQU5tWWscsN8ncU4MwuJJx21L8NYIrDOCu1ORs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTU4/NjItMTQ2MTIyNDY4/NS01NDY1LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/8dxY8T8FEeuuAwtIpZQuyfVYKGOT17r9Io2l9aoFXns/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTU4/NjItMTQ2MTIyNDY4/NS01NDY1LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Power Metal", "Speed Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3132948,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3132948",
+		"date_added": "2016-06-30T06:17:12-07:00",
+		"basic_information": {
+			"id": 3132948,
+			"master_id": 5784,
+			"master_url": "https://api.discogs.com/masters/5784",
+			"resource_url": "https://api.discogs.com/releases/3132948",
+			"title": "Under The Sign Of The Black Mark",
+			"year": 1991,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark Production", "catno": "BMCD 666-3", "entity_type": "1", "entity_type_name": "Label", "id": 34553, "resource_url": "https://api.discogs.com/labels/34553" }],
+			"thumb": "https://i.discogs.com/r42gGm4fICSkiAQyRwNPpQdVaSYmSWANgbJ3VzviQ2s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI5/NDgtMTM3MzIwOTkw/Ny03NTIxLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/B7X-2Ttupad_dspp0lh-7t16cM6Tuy6UcAR3L4IROZI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzI5/NDgtMTM3MzIwOTkw/Ny03NTIxLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1078119,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1078119",
+		"date_added": "2018-12-25T12:19:08-08:00",
+		"basic_information": {
+			"id": 1078119,
+			"master_id": 5566,
+			"master_url": "https://api.discogs.com/masters/5566",
+			"resource_url": "https://api.discogs.com/releases/1078119",
+			"title": "Under A Funeral Moon",
+			"year": 1993,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Peaceville", "catno": "Vile 35CD", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }],
+			"thumb": "https://i.discogs.com/4N8v01b9QETTdogGY8_p5fcWuZaDS-Hy42H6HsiaHIk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgx/MTktMTM2MzAyNjgx/NS0yNTczLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/BSVXWpMYb06UeZ21tkWmF_Nj57ejmoSL-kElfEgfKag/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgx/MTktMTM2MzAyNjgx/NS0yNTczLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3968570,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3968570",
+		"date_added": "2016-06-30T06:17:59-07:00",
+		"basic_information": {
+			"id": 3968570,
+			"master_id": 5828,
+			"master_url": "https://api.discogs.com/masters/5828",
+			"resource_url": "https://api.discogs.com/releases/3968570",
+			"title": "Twilight Of The Gods",
+			"year": 1991,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark Production", "catno": "BMCD 666-6", "entity_type": "1", "entity_type_name": "Label", "id": 34553, "resource_url": "https://api.discogs.com/labels/34553" }],
+			"thumb": "https://i.discogs.com/8zTdSVYAkqxhPqR2Oyo3dL0OZEqImeDrS1SHOLUayX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njg1/NzAtMTM1MDg1NTgx/NS0xMTk5LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/rHAiT1I34I9KJl-EQgNTTlK6ffzorlJ77tpqMwCbt2g/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Njg1/NzAtMTM1MDg1NTgx/NS0xMTk5LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Acoustic", "Viking Metal", "Symphonic Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 399861,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/399861",
+		"date_added": "2018-12-25T12:16:18-08:00",
+		"basic_information": {
+			"id": 399861,
+			"master_id": 5582,
+			"master_url": "https://api.discogs.com/masters/5582",
+			"resource_url": "https://api.discogs.com/releases/399861",
+			"title": "Transilvanian Hunger",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [
+				{ "name": "Peaceville", "catno": "Vile 43CD", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" },
+				{ "name": "Peaceville", "catno": "VILE 43", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }
+			],
+			"thumb": "https://i.discogs.com/ObMiY3nqOxgX4mvMgVoKVg276kn-A7Qvs9h3sESth4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg2/MS0xNTE3OTM2OTk2/LTk2OTAuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/zU1Jnsg9nxhTpL5xljphyY7CsO3HzQPM2WPT6chQrPo/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5OTg2/MS0xNTE3OTM2OTk2/LTk2OTAuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 4075779,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/4075779",
+		"date_added": "2016-06-30T06:15:53-07:00",
+		"basic_information": {
+			"id": 4075779,
+			"master_id": 5771,
+			"master_url": "https://api.discogs.com/masters/5771",
+			"resource_url": "https://api.discogs.com/releases/4075779",
+			"title": "The Return......",
+			"year": 1991,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark Production", "catno": "BMCD 666-2", "entity_type": "1", "entity_type_name": "Label", "id": 34553, "resource_url": "https://api.discogs.com/labels/34553" }],
+			"thumb": "https://i.discogs.com/shtkQwuhzJAy-GQdyNftMbE-vuEf0UymSTe05Ucm14g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzU3/NzktMTU1MDY3NDg4/Ni05MDIxLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/xxLWJBQaW2jEoGRx4CUZAFE--jFmCETN32dzbX1VebU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzU3/NzktMTU1MDY3NDg4/Ni05MDIxLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1988104,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1988104",
+		"date_added": "2017-04-21T11:15:34-07:00",
+		"basic_information": {
+			"id": 1988104,
+			"master_id": 84210,
+			"master_url": "https://api.discogs.com/masters/84210",
+			"resource_url": "https://api.discogs.com/releases/1988104",
+			"title": "The Rack",
+			"year": 1991,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Asphyx (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 272542, "resource_url": "https://api.discogs.com/artists/272542" }],
+			"labels": [{ "name": "Century Media", "catno": "84 9716-2", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/KSCxuN3E76Su83y1BGvEU50zPP6Y7aXKSJTHAmKZpUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODgx/MDQtMTI1Njk2MjA1/Mi5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/m3WmNVyFOepWlMQY0U8V2oV59HA5wvi3v1IKXGRy19A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODgx/MDQtMTI1Njk2MjA1/Mi5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 27123210,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/27123210",
+		"date_added": "2024-01-28T15:03:49-08:00",
+		"basic_information": {
+			"id": 27123210,
+			"master_id": 1000820,
+			"master_url": "https://api.discogs.com/masters/1000820",
+			"resource_url": "https://api.discogs.com/releases/27123210",
+			"title": "The Hunt For Damien",
+			"year": 2023,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] },
+				{ "name": "CD", "qty": "1", "descriptions": [] },
+				{ "name": "All Media", "qty": "1", "descriptions": [], "text": "O-Card" }
+			],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "High Roller Records", "catno": "HRR 869 CD", "entity_type": "1", "entity_type_name": "Label", "id": 115401, "resource_url": "https://api.discogs.com/labels/115401" }],
+			"thumb": "https://i.discogs.com/Bo_RPdxtxAv-LehGpyAZdEOU_lnDiH9FODRoWpP1vX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIz/MjEwLTE3MTExOTgw/MDItMTcxMi5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/wC08OcdAU8tDOVpOfGzKXuu-fipDbqaotlZlhYuXsyQ/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTIz/MjEwLTE3MTExOTgw/MDItMTcxMi5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 10365487,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/10365487",
+		"date_added": "2024-01-28T15:04:34-08:00",
+		"basic_information": {
+			"id": 10365487,
+			"master_id": 594122,
+			"master_url": "https://api.discogs.com/masters/594122",
+			"resource_url": "https://api.discogs.com/releases/10365487",
+			"title": "The Holy Empire",
+			"year": 2017,
+			"formats": [
+				{ "name": "All Media", "qty": "1", "descriptions": ["Reissue", "Remastered"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Album"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Compilation"] }
+			],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "High Roller Records", "catno": "HRR 487 CD", "entity_type": "1", "entity_type_name": "Label", "id": 115401, "resource_url": "https://api.discogs.com/labels/115401" }],
+			"thumb": "https://i.discogs.com/WaygoRm9TyNSl_33bZnXloMCB1n-oB-tS72JPZXff94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY1/NDg3LTE1MDQ3NTk5/MzktNDUyOC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/tUMM3RvvemWfemTKVqdbh1RJxUM5TGjmiOZ83sbtLrM/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzY1/NDg3LTE1MDQ3NTk5/MzktNDUyOC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 4451611,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/4451611",
+		"date_added": "2017-04-21T11:30:01-07:00",
+		"basic_information": {
+			"id": 4451611,
+			"master_id": 594122,
+			"master_url": "https://api.discogs.com/masters/594122",
+			"resource_url": "https://api.discogs.com/releases/4451611",
+			"title": "The Holy Empire",
+			"year": 2013,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [
+				{ "name": "Sons Of A Dream Music LLC", "catno": "SOADM-CD002", "entity_type": "1", "entity_type_name": "Label", "id": 550412, "resource_url": "https://api.discogs.com/labels/550412" },
+				{ "name": "Sons Of A Dream Music LLC", "catno": "0456-35491-892", "entity_type": "1", "entity_type_name": "Label", "id": 550412, "resource_url": "https://api.discogs.com/labels/550412" }
+			],
+			"thumb": "https://i.discogs.com/9n61FmuP89rMMDa49m_ZZ66OqoPmNjzLaV33GcmRzSM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTE2/MTEtMTM2NzA1ODQ3/OS0zODAzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/QSInxrR5ODJYI8VXbpdes35ivtqD2MN2wUoYps--1yE/rs:fit/g:sm/q:90/h:491/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTE2/MTEtMTM2NzA1ODQ3/OS0zODAzLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 7852618,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/7852618",
+		"date_added": "2024-01-28T15:08:36-08:00",
+		"basic_information": {
+			"id": 7852618,
+			"master_id": 250712,
+			"master_url": "https://api.discogs.com/masters/250712",
+			"resource_url": "https://api.discogs.com/releases/7852618",
+			"title": "The Cannons Of Destruction",
+			"year": 2015,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition", "Numbered", "Reissue"], "text": "Digipak" }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "Alone Records (4)", "catno": "ALONE-0022", "entity_type": "1", "entity_type_name": "Label", "id": 586770, "resource_url": "https://api.discogs.com/labels/586770" }],
+			"thumb": "https://i.discogs.com/S-kqsTmRIF1DzLDYMIMhmU2TKgKoKJsqNVsCgeX0xdI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTI2/MTgtMTQ1NjQ4NjIw/NS0xMzQzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/1kPdSsOdMlScrm3pxulWXCZXJQPHYOqG9vH1lwtdz1Q/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTI2/MTgtMTQ1NjQ4NjIw/NS0xMzQzLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1926095,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1926095",
+		"date_added": "2018-12-25T04:13:51-08:00",
+		"basic_information": {
+			"id": 1926095,
+			"master_id": 22734,
+			"master_url": "https://api.discogs.com/masters/22734",
+			"resource_url": "https://api.discogs.com/releases/1926095",
+			"title": "Tales From The Twilight World",
+			"year": 1990,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [{ "name": "No Remorse Records", "catno": "VICP-8012", "entity_type": "1", "entity_type_name": "Label", "id": 49326, "resource_url": "https://api.discogs.com/labels/49326" }],
+			"thumb": "https://i.discogs.com/RMRAGI5oePX78lGDIobebi_lODfHzToa1RI61oCX71w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYw/OTUtMTQ2Mjk2MTU3/My01MjQxLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/8o5c3JDC_V2sM2PbDDEkuDgvo5qo8nmLTxXqs-QTzJQ/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYw/OTUtMTQ2Mjk2MTU3/My01MjQxLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 730831,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/730831",
+		"date_added": "2017-01-10T05:21:47-08:00",
+		"basic_information": {
+			"id": 730831,
+			"master_id": 28341,
+			"master_url": "https://api.discogs.com/masters/28341",
+			"resource_url": "https://api.discogs.com/releases/730831",
+			"title": "Subterranean",
+			"year": 1995,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Mini-Album"] }],
+			"artists": [{ "name": "In Flames", "anv": "", "join": "", "role": "", "tracks": "", "id": 244819, "resource_url": "https://api.discogs.com/artists/244819" }],
+			"labels": [{ "name": "Wrong Again Records", "catno": "WAR 006", "entity_type": "1", "entity_type_name": "Label", "id": 34586, "resource_url": "https://api.discogs.com/labels/34586" }],
+			"thumb": "https://i.discogs.com/yuJquOeYX1_rGd5u7aQrLhUxGlZ14pSCCGuOxddn_hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDgz/MS0xNTMyMjQ3MDY1/LTEyNjAuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/d4B5pshSxcfL-NbPfkP1sHX2AIXEgjYDKOtpCKuXWOI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczMDgz/MS0xNTMyMjQ3MDY1/LTEyNjAuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Melodic Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2508186,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2508186",
+		"date_added": "2018-12-25T12:20:16-08:00",
+		"basic_information": {
+			"id": 2508186,
+			"master_id": 5540,
+			"master_url": "https://api.discogs.com/masters/5540",
+			"resource_url": "https://api.discogs.com/releases/2508186",
+			"title": "Soulside Journey",
+			"year": 1991,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "Dark Throne", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Peaceville", "catno": "VILE 22 CD", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }],
+			"thumb": "https://i.discogs.com/EOHTsZxkx2XJsYpJOHKrBfg9W3BtKowxeujoUPR3hok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDgx/ODYtMTM5Njg4NjA3/My05Njk5LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/BppE887LzKZjUS8qcjV5yNmnv5UgDR2T5rW7-LPyR-s/rs:fit/g:sm/q:90/h:500/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MDgx/ODYtMTM5Njg4NjA3/My05Njk5LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 392225,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/392225",
+		"date_added": "2018-12-25T12:11:21-08:00",
+		"basic_information": {
+			"id": 392225,
+			"master_id": 5671,
+			"master_url": "https://api.discogs.com/masters/5671",
+			"resource_url": "https://api.discogs.com/releases/392225",
+			"title": "Sardonic Wrath",
+			"year": 2004,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Moonfog", "catno": "FOG 034", "entity_type": "1", "entity_type_name": "Label", "id": 71489, "resource_url": "https://api.discogs.com/labels/71489" }],
+			"thumb": "https://i.discogs.com/Z490t_kJN9--2bXVIQrVw8ly0EzToDZG9os1vmqpveI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjIy/NS0xMzQ2MjY4OTg0/LTM2NzQuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/OylkfCyhq99BqYUPaKWfvrqoYR5u02lvFG-PueSOYMk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjIy/NS0xMzQ2MjY4OTg0/LTM2NzQuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2390213,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2390213",
+		"date_added": "2024-03-16T03:18:19-07:00",
+		"basic_information": {
+			"id": 2390213,
+			"master_id": 274534,
+			"master_url": "https://api.discogs.com/masters/274534",
+			"resource_url": "https://api.discogs.com/releases/2390213",
+			"title": "Revolution DNA",
+			"year": 1999,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "O-Card" }],
+			"artists": [{ "name": "Septic Flesh", "anv": "", "join": "", "role": "", "tracks": "", "id": 261002, "resource_url": "https://api.discogs.com/artists/261002" }],
+			"labels": [{ "name": "Holy Records", "catno": "HOLY 50 CD", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" }],
+			"thumb": "https://i.discogs.com/qN_H4UneSMDfP_nTPwBcTyvlibGtmMikaE2YCEw22vA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAy/MTMtMTI4NDQyMDU0/MS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/QQDU9_i__OEOohKEc9lr1Qt6GWKJ5fUJG4uOBmPnx8Q/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTAy/MTMtMTI4NDQyMDU0/MS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Melodic Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 769833,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/769833",
+		"date_added": "2024-03-16T03:18:18-07:00",
+		"basic_information": {
+			"id": 769833,
+			"master_id": 274534,
+			"master_url": "https://api.discogs.com/masters/274534",
+			"resource_url": "https://api.discogs.com/releases/769833",
+			"title": "Revolution DNA",
+			"year": 1999,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "Digipak" }],
+			"artists": [{ "name": "Septic Flesh", "anv": "", "join": "", "role": "", "tracks": "", "id": 261002, "resource_url": "https://api.discogs.com/artists/261002" }],
+			"labels": [{ "name": "Holy Records", "catno": "HOLY50CDX", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" }],
+			"thumb": "https://i.discogs.com/XRQ4m-bABynk3c2jLStkyykf4hEy--F_rjvWeevgzq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTgz/My0xNTMyODUxOTg1/LTY5NTkuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/iBOZMuRTOCkiHmQPdeaTKQPzwypwZOEZ9wI5pK-yy7A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2OTgz/My0xNTMyODUxOTg1/LTY5NTkuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Doom Metal", "Gothic Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2010235,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2010235",
+		"date_added": "2018-12-25T12:00:58-08:00",
+		"basic_information": {
+			"id": 2010235,
+			"master_id": 5632,
+			"master_url": "https://api.discogs.com/masters/5632",
+			"resource_url": "https://api.discogs.com/releases/2010235",
+			"title": "Ravishing Grimness",
+			"year": 1999,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Moonfog Productions", "catno": "FOG 023", "entity_type": "1", "entity_type_name": "Label", "id": 19399, "resource_url": "https://api.discogs.com/labels/19399" }],
+			"thumb": "https://i.discogs.com/-FBkcFpssnjK26YDostZz5iyoXIDz-DUaFOSU7qGPhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAy/MzUtMTI1ODMzMTE5/My5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/fALbB6SFVR4qSiOel9n8Q0GqW59ujkK5if2h1yeSbwg/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTAy/MzUtMTI1ODMzMTE5/My5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 387232,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/387232",
+		"date_added": "2018-12-25T12:03:28-08:00",
+		"basic_information": {
+			"id": 387232,
+			"master_id": 5646,
+			"master_url": "https://api.discogs.com/masters/5646",
+			"resource_url": "https://api.discogs.com/releases/387232",
+			"title": "Plaguewielder",
+			"year": 2001,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "Digipak" }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [
+				{ "name": "Moonfog Productions", "catno": "Fog 028", "entity_type": "1", "entity_type_name": "Label", "id": 19399, "resource_url": "https://api.discogs.com/labels/19399" },
+				{ "name": "Moonfog Productions", "catno": "FOG 028", "entity_type": "1", "entity_type_name": "Label", "id": 19399, "resource_url": "https://api.discogs.com/labels/19399" }
+			],
+			"thumb": "https://i.discogs.com/LXp3nm3D3LFRjYy7SQjMMD3trOj53xIc6T339UAst44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzIz/Mi0xMzE2MDcxNDU4/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/Dgkfe0qYS8RuRsUMtNBV8DSqcvevxSAQIHLbsKqrKSU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzIz/Mi0xMzE2MDcxNDU4/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1984833,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1984833",
+		"date_added": "2017-01-10T05:09:55-08:00",
+		"basic_information": {
+			"id": 1984833,
+			"master_id": 681645,
+			"master_url": "https://api.discogs.com/masters/681645",
+			"resource_url": "https://api.discogs.com/releases/1984833",
+			"title": "Parody Of The Mass",
+			"year": 1998,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Morgul", "anv": "", "join": "", "role": "", "tracks": "", "id": 285535, "resource_url": "https://api.discogs.com/artists/285535" }],
+			"labels": [{ "name": "Napalm Records", "catno": "NPR046", "entity_type": "1", "entity_type_name": "Label", "id": 33182, "resource_url": "https://api.discogs.com/labels/33182" }],
+			"thumb": "https://i.discogs.com/97lQu2hhtxLRtpNjcShlPnytWeRSctKyo_R-4QIwPVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQ4/MzMtMTQyNDgyNzY5/OC00NzUyLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/4zYqOvLU8hK_4to1hglxk4IXtr4ZsZ-3_70fEG4KYQk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5ODQ4/MzMtMTQyNDgyNzY5/OC00NzUyLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1013725,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1013725",
+		"date_added": "2018-12-28T11:41:53-08:00",
+		"basic_information": {
+			"id": 1013725,
+			"master_id": 5881,
+			"master_url": "https://api.discogs.com/masters/5881",
+			"resource_url": "https://api.discogs.com/releases/1013725",
+			"title": "Nordland II",
+			"year": 2003,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition"], "text": "Digipak" }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark (3)", "catno": "BMDP 666-22", "entity_type": "1", "entity_type_name": "Label", "id": 2673107, "resource_url": "https://api.discogs.com/labels/2673107" }],
+			"thumb": "https://i.discogs.com/HXFFW_tBjqbd3IPQVVtHtt1KTfof1S9CGMxRGbQv5n0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM3/MjUtMTE4NDE4NTAw/Ni5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/UrDA-srhgczOLtwa1LQ9v5KYiS23LlQ5UdVMUedjvcw/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTM3/MjUtMTE4NDE4NTAw/Ni5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 450413,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/450413",
+		"date_added": "2018-12-28T11:41:52-08:00",
+		"basic_information": {
+			"id": 450413,
+			"master_id": 5878,
+			"master_url": "https://api.discogs.com/masters/5878",
+			"resource_url": "https://api.discogs.com/releases/450413",
+			"title": "Nordland I",
+			"year": 2002,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition"], "text": "Digipak" }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark (3)", "catno": "BMDP666-19", "entity_type": "1", "entity_type_name": "Label", "id": 2673107, "resource_url": "https://api.discogs.com/labels/2673107" }],
+			"thumb": "https://i.discogs.com/W21iuULT7KcwLgXstuFJRzh1u06apkWVpfq1S0U8vhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDQx/My0xMzUwMDg4NTYw/LTc1MjUuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/yP1ta9pHqyyviegJOZjbxhXmgOf2PjgODasqQr67QO8/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDQx/My0xMzUwMDg4NTYw/LTc1MjUuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1926153,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1926153",
+		"date_added": "2018-01-20T14:49:38-08:00",
+		"basic_information": {
+			"id": 1926153,
+			"master_id": 22757,
+			"master_url": "https://api.discogs.com/masters/22757",
+			"resource_url": "https://api.discogs.com/releases/1926153",
+			"title": "Nightfall In Middle-Earth = ナイトフォール・イン・ミドル・アース",
+			"year": 1998,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [
+				{ "name": "Blind Guardian", "anv": "", "join": "=", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" },
+				{ "name": "Blind Guardian", "anv": "ブラインド・ガーディアン", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }
+			],
+			"labels": [{ "name": "Victor", "catno": "VICP-60295", "entity_type": "1", "entity_type_name": "Label", "id": 61808, "resource_url": "https://api.discogs.com/labels/61808" }],
+			"thumb": "https://i.discogs.com/muy3xipIfT4OL4uxzM8cWAfNksbkKyLA5dxS_RlgBdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYx/NTMtMTQ4MTEzNzY0/MC02MDIxLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/e7p9QWUiGp3ZjlaMinopP4SpJGal5X1qD2DQNee-ZI4/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYx/NTMtMTQ4MTEzNzY0/MC02MDIxLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 17014308,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/17014308",
+		"date_added": "2024-11-04T01:50:58-08:00",
+		"basic_information": {
+			"id": 17014308,
+			"master_id": 1932198,
+			"master_url": "https://api.discogs.com/masters/1932198",
+			"resource_url": "https://api.discogs.com/releases/17014308",
+			"title": "Necroceros",
+			"year": 2021,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Album", "Stereo"] },
+				{ "name": "DVD", "qty": "1", "descriptions": ["DVD-Video", "NTSC", "Stereo"] },
+				{ "name": "All Media", "qty": "1", "descriptions": ["Limited Edition"], "text": "Mediabook" }
+			],
+			"artists": [{ "name": "Asphyx (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 272542, "resource_url": "https://api.discogs.com/artists/272542" }],
+			"labels": [{ "name": "Century Media", "catno": "19439813052", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/A9jATNbeZCJeDx6zoh8RJmnxrqVVKIgLsgus-kj6uNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE0/MzA4LTE2MTE1NzIy/ODMtNzA3OC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/gvSd8i2OjgmTyy3k_V0MHoa0OEoHz7HhEwvB0yOF13I/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDE0/MzA4LTE2MTE1NzIy/ODMtNzA3OC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal", "Doom Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1565156,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1565156",
+		"date_added": "2024-03-16T03:14:28-07:00",
+		"basic_information": {
+			"id": 1565156,
+			"master_id": 92975,
+			"master_url": "https://api.discogs.com/masters/92975",
+			"resource_url": "https://api.discogs.com/releases/1565156",
+			"title": "Mystic Places Of Dawn",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Septic Flesh", "anv": "", "join": "", "role": "", "tracks": "", "id": 261002, "resource_url": "https://api.discogs.com/artists/261002" }],
+			"labels": [
+				{ "name": "Holy Records", "catno": "HOLY 05 CD", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" },
+				{ "name": "Holy Records", "catno": "SPV 84-141212 CD", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" }
+			],
+			"thumb": "https://i.discogs.com/v88FAlwN9xmDBmRfEpitBjuuxa_-4pZW-v8X6Sas_mM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/NTYtMTMyODQ2MDU0/OS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/B9ubWnpackir0kjd-O68tYA75hROCnjCgNyld_S7Gq4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NjUx/NTYtMTMyODQ2MDU0/OS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal", "Doom Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2870878,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2870878",
+		"date_added": "2024-03-16T03:14:29-07:00",
+		"basic_information": {
+			"id": 2870878,
+			"master_id": 92975,
+			"master_url": "https://api.discogs.com/masters/92975",
+			"resource_url": "https://api.discogs.com/releases/2870878",
+			"title": "Mystic Places Of Dawn",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Septic Flesh", "anv": "", "join": "", "role": "", "tracks": "", "id": 261002, "resource_url": "https://api.discogs.com/artists/261002" }],
+			"labels": [
+				{ "name": "Holy Records", "catno": "HOLY05", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" },
+				{ "name": "Holy Records", "catno": "SPV 084 - 24882 CD", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" }
+			],
+			"thumb": "https://i.discogs.com/uR7kYclzcKP-VLjc_7EO_7HI3ISXoxsXUJ-LOIAPH4U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzA4/NzgtMTMwNDkzNzcz/OC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/H4YlArYqF5I6O2zLFUc876w06QLNSOVtVWcg5_QTkQw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NzA4/NzgtMTMwNDkzNzcz/OC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Doom Metal", "Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2054881,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2054881",
+		"date_added": "2017-12-25T07:51:35-08:00",
+		"basic_information": {
+			"id": 2054881,
+			"master_id": 219359,
+			"master_url": "https://api.discogs.com/masters/219359",
+			"resource_url": "https://api.discogs.com/releases/2054881",
+			"title": "Mirror Mirror",
+			"year": 1998,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Maxi-Single"] }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [
+				{ "name": "Virgin", "catno": "7243 8 949202 6", "entity_type": "1", "entity_type_name": "Label", "id": 750, "resource_url": "https://api.discogs.com/labels/750" },
+				{ "name": "Virgin", "catno": "7243 8 94920 2 6", "entity_type": "1", "entity_type_name": "Label", "id": 750, "resource_url": "https://api.discogs.com/labels/750" },
+				{ "name": "Virgin", "catno": "724389492026", "entity_type": "1", "entity_type_name": "Label", "id": 750, "resource_url": "https://api.discogs.com/labels/750" },
+				{ "name": "Virgin", "catno": "8949202", "entity_type": "1", "entity_type_name": "Label", "id": 750, "resource_url": "https://api.discogs.com/labels/750" }
+			],
+			"thumb": "https://i.discogs.com/2CCHj3XxtTKANgecj53NuxigDjWoTa7EU8uvI5vMbQs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ4/ODEtMTYwMTc4ODYy/Ni02MzEyLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/1pIWZ4H6LqEJh46IQCBIdtnaJTVGuzjem1L0IVMq0uI/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTQ4/ODEtMTYwMTc4ODYy/Ni02MzEyLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 598888,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/598888",
+		"date_added": "2017-04-21T11:15:37-07:00",
+		"basic_information": {
+			"id": 598888,
+			"master_id": 84211,
+			"master_url": "https://api.discogs.com/masters/84211",
+			"resource_url": "https://api.discogs.com/releases/598888",
+			"title": "Last One On Earth",
+			"year": 1992,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Asphyx (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 272542, "resource_url": "https://api.discogs.com/artists/272542" }],
+			"labels": [{ "name": "Century Media", "catno": "84 9734-2", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/sBV-LQ5C-AnqWkzIbqutDym6tx1Q4R95wFvD2dr-2dE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODg4/OC0xNjIxNDAzODcx/LTkyNjAuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/u9o-rBXS7fEh2zK64HjFOSdMF_XSj3s6TLJLtmGn9BY/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODg4/OC0xNjIxNDAzODcx/LTkyNjAuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 30464936,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/30464936",
+		"date_added": "2024-05-01T16:11:04-07:00",
+		"basic_information": {
+			"id": 30464936,
+			"master_id": 3462632,
+			"master_url": "https://api.discogs.com/masters/3462632",
+			"resource_url": "https://api.discogs.com/releases/30464936",
+			"title": "It Beckons Us All.......",
+			"year": 2024,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Peaceville", "catno": "CDVILEF1103", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }],
+			"thumb": "https://i.discogs.com/w7Gp-eUq_GthkKBOmkEReOQt0EKwpZ8RytaEih2e-B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY0/OTM2LTE3MTM5OTky/OTgtNjc3NS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/Dtkd5IYeKoO0AQ1Yfg71X5Dttmzj36IL8PhBJaI-QBc/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNDY0/OTM2LTE3MTM5OTky/OTgtNjc3NS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Doom Metal", "Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 9092608,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/9092608",
+		"date_added": "2017-04-21T11:18:34-07:00",
+		"basic_information": {
+			"id": 9092608,
+			"master_id": 1065058,
+			"master_url": "https://api.discogs.com/masters/1065058",
+			"resource_url": "https://api.discogs.com/releases/9092608",
+			"title": "Incoming Death",
+			"year": 2016,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Album"] },
+				{ "name": "DVD", "qty": "1", "descriptions": ["DVD-Video"] },
+				{ "name": "All Media", "qty": "1", "descriptions": ["Limited Edition"], "text": "Mediabook" }
+			],
+			"artists": [{ "name": "Asphyx (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 272542, "resource_url": "https://api.discogs.com/artists/272542" }],
+			"labels": [{ "name": "Century Media", "catno": "88985355362", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/DIL8fywJ5k_B6o1xjnRCB_6dRh6EVmjjPjtblAoRABU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI2/MDgtMTQ3NDcyOTM5/MS00Mzg0LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/o3SEGSIB63l7jDf2uUPe2sJmybhncRpus0afDgdhIbM/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwOTI2/MDgtMTQ3NDcyOTM5/MS00Mzg0LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 367790,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/367790",
+		"date_added": "2017-04-20T04:11:50-07:00",
+		"basic_information": {
+			"id": 367790,
+			"master_id": 62948,
+			"master_url": "https://api.discogs.com/masters/62948",
+			"resource_url": "https://api.discogs.com/releases/367790",
+			"title": "In The Streams Of Inferno",
+			"year": 1996,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition"] }],
+			"artists": [{ "name": "Mysticum", "anv": "", "join": "", "role": "", "tracks": "", "id": 259823, "resource_url": "https://api.discogs.com/artists/259823" }],
+			"labels": [{ "name": "Full Moon Productions (2)", "catno": "FMP666", "entity_type": "1", "entity_type_name": "Label", "id": 30078, "resource_url": "https://api.discogs.com/labels/30078" }],
+			"thumb": "https://i.discogs.com/36OK35bkrH_SCy3JJQwfNUuVhD8NdP1NFdF2YQIUeVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc5/MC0xMjI1OTgzNjky/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/J_Z4qcuD_jevIojDAo55mHQ6r2-NsZ5drrVJA_daCpY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Nzc5/MC0xMjI1OTgzNjky/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Industrial"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 663168,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/663168",
+		"date_added": "2016-06-30T06:12:31-07:00",
+		"basic_information": {
+			"id": 663168,
+			"master_id": 108336,
+			"master_url": "https://api.discogs.com/masters/108336",
+			"resource_url": "https://api.discogs.com/releases/663168",
+			"title": "In The Shadow Of Your Black Wings",
+			"year": 1997,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "Digipak" }],
+			"artists": [{ "name": "Bloodthorn", "anv": "", "join": "", "role": "", "tracks": "", "id": 307685, "resource_url": "https://api.discogs.com/artists/307685" }],
+			"labels": [{ "name": "Season Of Mist", "catno": "SOM 006", "entity_type": "1", "entity_type_name": "Label", "id": 33674, "resource_url": "https://api.discogs.com/labels/33674" }],
+			"thumb": "https://i.discogs.com/yo0BcAhwwdn_4eCM_mQmns4naufOHhtIwjfQpt8n3ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE2/OC0xMTQ0OTMwMTMy/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/wH0lltmwVhO-BDzqNsHX8WVPK5FJBacgOg0ez350WtE/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2MzE2/OC0xMTQ0OTMwMTMy/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1926160,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1926160",
+		"date_added": "2018-01-20T14:48:10-08:00",
+		"basic_information": {
+			"id": 1926160,
+			"master_id": 22746,
+			"master_url": "https://api.discogs.com/masters/22746",
+			"resource_url": "https://api.discogs.com/releases/1926160",
+			"title": "Imaginations From The Other Side",
+			"year": 1995,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition"], "text": "Slipcase" }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [{ "name": "Victor", "catno": "VICP-8142", "entity_type": "1", "entity_type_name": "Label", "id": 61808, "resource_url": "https://api.discogs.com/labels/61808" }],
+			"thumb": "https://i.discogs.com/I7mZvWp2qQySC_frCv5hGvv6g-LhbJDvGs6ymzMGH7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYx/NjAtMTU0NDkxNDM0/My0zMTQ3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/LflGwlDkAK9zQjfAU9z7XOgH00uDch2h1VhNjHd933M/rs:fit/g:sm/q:90/h:506/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYx/NjAtMTU0NDkxNDM0/My0zMTQ3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Speed Metal", "Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2737545,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2737545",
+		"date_added": "2017-07-11T13:30:45-07:00",
+		"basic_information": {
+			"id": 2737545,
+			"master_id": 14406,
+			"master_url": "https://api.discogs.com/masters/14406",
+			"resource_url": "https://api.discogs.com/releases/2737545",
+			"title": "Høstmørke",
+			"year": 2010,
+			"formats": [{ "name": "CD", "qty": "2", "descriptions": ["Album", "Reissue"] }],
+			"artists": [{ "name": "Isengard", "anv": "", "join": "", "role": "", "tracks": "", "id": 261482, "resource_url": "https://api.discogs.com/artists/261482" }],
+			"labels": [{ "name": "Peaceville", "catno": "CDVILED307X", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }],
+			"thumb": "https://i.discogs.com/hCmZ6aCn8gBFren845N2nwk1dCttx42VWanmiWnSGco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc1/NDUtMTMxODQzNDE3/Ny5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/18nXmfALUDcNZQrDTxu0orLoHNy0jeQJZ9nVoW64CFw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Mzc1/NDUtMTMxODQzNDE3/Ny5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal", "Black Metal", "Neofolk"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2333730,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2333730",
+		"date_added": "2016-12-05T07:00:40-08:00",
+		"basic_information": {
+			"id": 2333730,
+			"master_id": 107983,
+			"master_url": "https://api.discogs.com/masters/107983",
+			"resource_url": "https://api.discogs.com/releases/2333730",
+			"title": "Horror Of The Zombies",
+			"year": 1992,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Impetigo", "anv": "", "join": "", "role": "", "tracks": "", "id": 325019, "resource_url": "https://api.discogs.com/artists/325019" }],
+			"labels": [
+				{ "name": "Wild Rags Records", "catno": "WRR-035", "entity_type": "1", "entity_type_name": "Label", "id": 30082, "resource_url": "https://api.discogs.com/labels/30082" },
+				{ "name": "Wild Rags Records", "catno": "WRR035", "entity_type": "1", "entity_type_name": "Label", "id": 30082, "resource_url": "https://api.discogs.com/labels/30082" }
+			],
+			"thumb": "https://i.discogs.com/hFaqvkihSR-UT2GdTgFk_ljvE4J6DA0CXYSb57nMJ7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM3/MzAtMTI3NzY0NDMx/NC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/o5-KB987503guXQDxRmonq2IT-WFxLHeY87oh-tPBFM/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzM3/MzAtMTI3NzY0NDMx/NC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Grindcore", "Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 392030,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/392030",
+		"date_added": "2019-08-14T02:11:01-07:00",
+		"basic_information": {
+			"id": 392030,
+			"master_id": 7763,
+			"master_url": "https://api.discogs.com/masters/7763",
+			"resource_url": "https://api.discogs.com/releases/392030",
+			"title": "Haunting The Chapel",
+			"year": 1993,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["EP", "Reissue", "Remastered"] }],
+			"artists": [{ "name": "Slayer", "anv": "", "join": "", "role": "", "tracks": "", "id": 18845, "resource_url": "https://api.discogs.com/artists/18845" }],
+			"labels": [{ "name": "Metal Blade Records", "catno": "3984-14034-2", "entity_type": "1", "entity_type_name": "Label", "id": 45267, "resource_url": "https://api.discogs.com/labels/45267" }],
+			"thumb": "https://i.discogs.com/nDRsY6PgfPGFC-Hqa9xM0abgHRta2od6D2lzn4CjzU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjAz/MC0xNDQ4NDk3MTMw/LTE2MTIuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/7T2M6cBFLRNsDFb03KJwTBINtLDjHjpNnuayPypHl4c/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MjAz/MC0xNDQ4NDk3MTMw/LTE2MTIuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Thrash"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 388114,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/388114",
+		"date_added": "2018-12-25T12:03:56-08:00",
+		"basic_information": {
+			"id": 388114,
+			"master_id": 5662,
+			"master_url": "https://api.discogs.com/masters/5662",
+			"resource_url": "https://api.discogs.com/releases/388114",
+			"title": "Hate Them",
+			"year": 2003,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Moonfog", "catno": "FOG 032", "entity_type": "1", "entity_type_name": "Label", "id": 71489, "resource_url": "https://api.discogs.com/labels/71489" }],
+			"thumb": "https://i.discogs.com/WrRqUgp3Yg96iZ-2sd2KeFlHWBk47D83gsd59fOC8-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEx/NC0xMzUwODY4MzQ3/LTc4NjEuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/NhWUaM04iMvLcR2OUhgqz0nZhGnh4yQxfB2_-VGrGXs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODEx/NC0xMzUwODY4MzQ3/LTc4NjEuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 564790,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/564790",
+		"date_added": "2016-06-30T06:17:42-07:00",
+		"basic_information": {
+			"id": 564790,
+			"master_id": 5816,
+			"master_url": "https://api.discogs.com/masters/5816",
+			"resource_url": "https://api.discogs.com/releases/564790",
+			"title": "Hammerheart",
+			"year": 1990,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Noise International", "catno": "N 0153-2", "entity_type": "1", "entity_type_name": "Label", "id": 33149, "resource_url": "https://api.discogs.com/labels/33149" }],
+			"thumb": "https://i.discogs.com/QR6xpm4I_WydcbvEaTTrZh1zwz50J8osrCmXPVyoFNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDc5/MC0xNDQzMDQ1MTUy/LTU2MjEuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/iSEOutGZBNp_DRGlyGxXyabUEhSPD5iDNUzJYv7mcYc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NDc5/MC0xNDQzMDQ1MTUy/LTU2MjEuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal", "Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 30609217,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/30609217",
+		"date_added": "2025-01-31T05:33:34-08:00",
+		"basic_information": {
+			"id": 30609217,
+			"master_id": 3481408,
+			"master_url": "https://api.discogs.com/masters/3481408",
+			"resource_url": "https://api.discogs.com/releases/30609217",
+			"title": "Free Spirit Soar",
+			"year": 2024,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "High Roller Records", "catno": "HRR 954CD", "entity_type": "1", "entity_type_name": "Label", "id": 115401, "resource_url": "https://api.discogs.com/labels/115401" }],
+			"thumb": "https://i.discogs.com/INg2JmHTuzgpFLVC5QitPrHFaYirOs8dBDR6Ec-YoGA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA5/MjE3LTE3MTY3MjM1/MDQtNDY1NC5wbmc.jpeg",
+			"cover_image": "https://i.discogs.com/0wLOr_0GtZqaIcHPisgryvPVYVSLLqzBGNGb9n4EYuI/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjA5/MjE3LTE3MTY3MjM1/MDQtNDY1NC5wbmc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1926078,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1926078",
+		"date_added": "2018-01-20T14:46:31-08:00",
+		"basic_information": {
+			"id": 1926078,
+			"master_id": 22726,
+			"master_url": "https://api.discogs.com/masters/22726",
+			"resource_url": "https://api.discogs.com/releases/1926078",
+			"title": "Follow The Blind",
+			"year": 1990,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [{ "name": "No Remorse Records", "catno": "VICP-8014", "entity_type": "1", "entity_type_name": "Label", "id": 49326, "resource_url": "https://api.discogs.com/labels/49326" }],
+			"thumb": "https://i.discogs.com/luEKeaTCp21j2cQZnBknlQA0PVzBInX3IKUpxCtZPX8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYw/NzgtMTYzNzIyMzE3/MC0xNDY1LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/ZT1VQD9y5riC62jW8XBi-RVjRix1tTwLmL6uaGrAbOA/rs:fit/g:sm/q:90/h:536/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYw/NzgtMTYzNzIyMzE3/MC0xNDY1LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 24282257,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/24282257",
+		"date_added": "2022-10-31T11:40:05-07:00",
+		"basic_information": {
+			"id": 24282257,
+			"master_id": 2751914,
+			"master_url": "https://api.discogs.com/masters/2751914",
+			"resource_url": "https://api.discogs.com/releases/24282257",
+			"title": "Evidence Of Immortality",
+			"year": 2022,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "Digisleeve" }],
+			"artists": [{ "name": "Conan (6)", "anv": "", "join": "", "role": "", "tracks": "", "id": 1846293, "resource_url": "https://api.discogs.com/artists/1846293" }],
+			"labels": [{ "name": "Napalm Records", "catno": "NPR942DGS", "entity_type": "1", "entity_type_name": "Label", "id": 33182, "resource_url": "https://api.discogs.com/labels/33182" }],
+			"thumb": "https://i.discogs.com/ngwMj0HAatdfqP34khu7LVApQsgINKuxRcZxjl6kTXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgy/MjU3LTE2Nzc5NTU2/MzMtMzkzOC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/WeT1n9P17f7WPCWYyHFWXKLPEhbFY1TDzBYNHCczGoU/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjgy/MjU3LTE2Nzc5NTU2/MzMtMzkzOC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Stoner Rock", "Sludge Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 728802,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/728802",
+		"date_added": "2016-02-29T05:28:31-08:00",
+		"basic_information": {
+			"id": 728802,
+			"master_id": 42704,
+			"master_url": "https://api.discogs.com/masters/42704",
+			"resource_url": "https://api.discogs.com/releases/728802",
+			"title": "Epicus Doomicus Metallicus",
+			"year": 1988,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] }],
+			"artists": [{ "name": "Candlemass", "anv": "", "join": "", "role": "", "tracks": "", "id": 311088, "resource_url": "https://api.discogs.com/artists/311088" }],
+			"labels": [{ "name": "Black Dragon Records", "catno": "BDCD 013", "entity_type": "1", "entity_type_name": "Label", "id": 37518, "resource_url": "https://api.discogs.com/labels/37518" }],
+			"thumb": "https://i.discogs.com/EHOb0F2u7j4l2IiusPxD0alwSfaTIettcEqeaTuPk-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODgw/Mi0xNDUyNjA3OTY4/LTk3NjEuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/kkWGDOOxK9WavuUplUb9W4tNLlh7Al7p7J2O6cYvX9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODgw/Mi0xNDUyNjA3OTY4/LTk3NjEuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Doom Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 832068,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/832068",
+		"date_added": "2017-04-21T11:13:35-07:00",
+		"basic_information": {
+			"id": 832068,
+			"master_id": 246537,
+			"master_url": "https://api.discogs.com/masters/246537",
+			"resource_url": "https://api.discogs.com/releases/832068",
+			"title": "Embrace The Death",
+			"year": 1996,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Asphyx (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 272542, "resource_url": "https://api.discogs.com/artists/272542" }],
+			"labels": [{ "name": "Century Media", "catno": "77141-2", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/PJSSU35LZ3FkIWa7743fVFxbWw63xKpnchOPnw0VlL8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjA2/OC0xMjgzMTIwMDE2/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/7PjT6tJjz1K52RRpdRCWa17pJajLMDDE1W-_L5b2ZCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzMjA2/OC0xMjgzMTIwMDE2/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 608625,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/608625",
+		"date_added": "2016-06-30T06:18:44-07:00",
+		"basic_information": {
+			"id": 608625,
+			"master_id": 5868,
+			"master_url": "https://api.discogs.com/masters/5868",
+			"resource_url": "https://api.discogs.com/releases/608625",
+			"title": "Destroyer Of Worlds",
+			"year": 2001,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Misprint"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark (3)", "catno": "BMCD666-15", "entity_type": "1", "entity_type_name": "Label", "id": 2673107, "resource_url": "https://api.discogs.com/labels/2673107" }],
+			"thumb": "https://i.discogs.com/f1s4EkUl5xCZ7tymARwRx-ieq3o7Yz54gV8jUrhmBUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODYy/NS0xMTM3OTMxODg3/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/GJ1WZEAkb3U7k3U8GYCzQ8uitj0Kpv340fr5-oAXQ8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODYy/NS0xMTM3OTMxODg3/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Thrash", "Heavy Metal", "Viking Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 14481843,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/14481843",
+		"date_added": "2023-02-06T00:29:39-08:00",
+		"basic_information": {
+			"id": 14481843,
+			"master_id": 983549,
+			"master_url": "https://api.discogs.com/masters/983549",
+			"resource_url": "https://api.discogs.com/releases/14481843",
+			"title": "Demo 1996",
+			"year": 2019,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Reissue"] }],
+			"artists": [{ "name": "Soulburn", "anv": "", "join": "", "role": "", "tracks": "", "id": 287057, "resource_url": "https://api.discogs.com/artists/287057" }],
+			"labels": [{ "name": "VIC Records", "catno": "VIC163CD", "entity_type": "1", "entity_type_name": "Label", "id": 34200, "resource_url": "https://api.discogs.com/labels/34200" }],
+			"thumb": "https://i.discogs.com/rejeYGj5gIuIKkBIh7bbGRG74zFM17SVAlO0ES8xKUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/ODQzLTE1NzU0MDgz/NzctMTk3OC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/P5n16eoe5xNyun8N3N5r9Zb2zaDGHz1tZpG3xClEKsA/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgx/ODQzLTE1NzU0MDgz/NzctMTk3OC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2443865,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2443865",
+		"date_added": "2017-04-21T11:33:12-07:00",
+		"basic_information": {
+			"id": 2443865,
+			"master_id": 271870,
+			"master_url": "https://api.discogs.com/masters/271870",
+			"resource_url": "https://api.discogs.com/releases/2443865",
+			"title": "Deliver Us",
+			"year": 2003,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"], "text": "Digipak" }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "Sound & Vision (5)", "catno": "S&V008", "entity_type": "1", "entity_type_name": "Label", "id": 350679, "resource_url": "https://api.discogs.com/labels/350679" }],
+			"thumb": "https://i.discogs.com/YW1UT795gvE9MyIyLcK4VmEm-k8Ee4zq9mn9wBz_BZo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/NjUtMTQ3NTg1MDM4/NC05Mzg1LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/5gwhB9VrbIu4CoAOrjq5HvANODxRjBRreO7dpSgBVHM/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDM4/NjUtMTQ3NTg1MDM4/NC05Mzg1LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 396277,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/396277",
+		"date_added": "2017-12-04T06:44:33-08:00",
+		"basic_information": {
+			"id": 396277,
+			"master_id": 0,
+			"master_url": null,
+			"resource_url": "https://api.discogs.com/releases/396277",
+			"title": "D.F.F.",
+			"year": 2002,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["EP"] }],
+			"artists": [{ "name": "Blood Duster", "anv": "", "join": "", "role": "", "tracks": "", "id": 266079, "resource_url": "https://api.discogs.com/artists/266079" }],
+			"labels": [{ "name": "High Voltage Records (2)", "catno": "HVR 005", "entity_type": "1", "entity_type_name": "Label", "id": 36101, "resource_url": "https://api.discogs.com/labels/36101" }],
+			"thumb": "https://i.discogs.com/b1quRnN7Dr0a7bNkWQrX-MUijfqD1ldsmst1yzGGY-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjI3/Ny0xMTExMjc3Mjg2/LmpwZw.jpeg",
+			"cover_image": "https://i.discogs.com/vPgP6k2v5YTErtzrJt7E5N4U1HC5_YN-VeQXPoe7XQo/rs:fit/g:sm/q:90/h:335/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjI3/Ny0xMTExMjc3Mjg2/LmpwZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Grindcore"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 960054,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/960054",
+		"date_added": "2016-06-30T06:10:02-07:00",
+		"basic_information": {
+			"id": 960054,
+			"master_id": 181356,
+			"master_url": "https://api.discogs.com/masters/181356",
+			"resource_url": "https://api.discogs.com/releases/960054",
+			"title": "Blood Red Fog",
+			"year": 2006,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Blood Red Fog", "anv": "", "join": "", "role": "", "tracks": "", "id": 815777, "resource_url": "https://api.discogs.com/artists/815777" }],
+			"labels": [{ "name": "Grievantee Productions", "catno": "Viha002", "entity_type": "1", "entity_type_name": "Label", "id": 49760, "resource_url": "https://api.discogs.com/labels/49760" }],
+			"thumb": "https://i.discogs.com/Ym2BbxkChWWgq4pWN6LuAiyH185_5YEBpwQeE2er15Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA1/NC0xMzI3MTY2MTE5/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/p512QJ5V3Y-OJDno1CpC-NT5hYv1cL8sXtAnUZ-2FFQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MDA1/NC0xMzI3MTY2MTE5/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1606860,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1606860",
+		"date_added": "2016-06-30T06:17:34-07:00",
+		"basic_information": {
+			"id": 1606860,
+			"master_id": 5803,
+			"master_url": "https://api.discogs.com/masters/5803",
+			"resource_url": "https://api.discogs.com/releases/1606860",
+			"title": "Blood Fire Death",
+			"year": 1988,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Under One Flag", "catno": "CDFLAG 26", "entity_type": "1", "entity_type_name": "Label", "id": 33148, "resource_url": "https://api.discogs.com/labels/33148" }],
+			"thumb": "https://i.discogs.com/8-5F2mif1f8SZ4oxJatWLbnUnPbBvFpd9uSSmfd9MrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY4/NjAtMTIzMTc3NDYz/NS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/ZVzrRjHfnpgHJOH-yEddfJyoBDrRUYK2TjzwkSuFtmg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY4/NjAtMTIzMTc3NDYz/NS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Viking Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2354609,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2354609",
+		"date_added": "2017-12-04T06:47:52-08:00",
+		"basic_information": {
+			"id": 2354609,
+			"master_id": 13871,
+			"master_url": "https://api.discogs.com/masters/13871",
+			"resource_url": "https://api.discogs.com/releases/2354609",
+			"title": "Blood Duster",
+			"year": 2004,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Blood Duster", "anv": "", "join": "", "role": "", "tracks": "", "id": 266079, "resource_url": "https://api.discogs.com/artists/266079" }],
+			"labels": [{ "name": "Season Of Mist", "catno": "SOM 086", "entity_type": "1", "entity_type_name": "Label", "id": 33674, "resource_url": "https://api.discogs.com/labels/33674" }],
+			"thumb": "https://i.discogs.com/CuR8vum49Om-UQ8k9Mq8DnArNpl7JqFw3rEkn--e80U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ2/MDktMTMxNTYyODUz/Mi5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/Q0KOUSLQonvaVDk0qMzaqA_K0fK2g4Erg6v-OqGh7Y8/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTQ2/MDktMTMxNTYyODUz/Mi5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Grindcore", "Classic Rock"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1633573,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1633573",
+		"date_added": "2017-10-17T01:29:19-07:00",
+		"basic_information": {
+			"id": 1633573,
+			"master_id": 22711,
+			"master_url": "https://api.discogs.com/masters/22711",
+			"resource_url": "https://api.discogs.com/releases/1633573",
+			"title": "Battalions Of Fear",
+			"year": 1989,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [{ "name": "No Remorse Records", "catno": "NRR 1001", "entity_type": "1", "entity_type_name": "Label", "id": 49326, "resource_url": "https://api.discogs.com/labels/49326" }],
+			"thumb": "https://i.discogs.com/9rm0vErtlcr0JzK3b6bQd1HPpZhy7wvEGPqr6sddAgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM1/NzMtMTMwNDUzNzkz/NC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/DSYBZs7bo4_0A5WLADIHptocWTIgzXuv5rKBx_f6IjI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzM1/NzMtMTMwNDUzNzkz/NC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Speed Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1926067,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1926067",
+		"date_added": "2018-01-20T14:44:22-08:00",
+		"basic_information": {
+			"id": 1926067,
+			"master_id": 22711,
+			"master_url": "https://api.discogs.com/masters/22711",
+			"resource_url": "https://api.discogs.com/releases/1926067",
+			"title": "Battalions Of Fear",
+			"year": 1990,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [{ "name": "No Remorse Records", "catno": "VICP-8013", "entity_type": "1", "entity_type_name": "Label", "id": 49326, "resource_url": "https://api.discogs.com/labels/49326" }],
+			"thumb": "https://i.discogs.com/Cx5lhAj6S2OR2LiZreyW6lNEfOu8wQrsj4lwlWcZlII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYw/NjctMTQ2Mjk1NDYy/OC00NTAzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/qkBv3FvxOa1pt99s7QqasJUY93wTMDkbziWRO3ONb2Q/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MjYw/NjctMTQ2Mjk1NDYy/OC00NTAzLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Speed Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2275827,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2275827",
+		"date_added": "2016-06-30T06:15:31-07:00",
+		"basic_information": {
+			"id": 2275827,
+			"master_id": 5753,
+			"master_url": "https://api.discogs.com/masters/5753",
+			"resource_url": "https://api.discogs.com/releases/2275827",
+			"title": "Bathory",
+			"year": 1991,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"] }],
+			"artists": [{ "name": "Bathory", "anv": "", "join": "", "role": "", "tracks": "", "id": 252018, "resource_url": "https://api.discogs.com/artists/252018" }],
+			"labels": [{ "name": "Black Mark Production", "catno": "BMCD 666-1", "entity_type": "1", "entity_type_name": "Label", "id": 34553, "resource_url": "https://api.discogs.com/labels/34553" }],
+			"thumb": "https://i.discogs.com/_FH00lL133urZ1a8L2cvUNvQYL3nUFVEOWYolzuMUWA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU4/MjctMTI3Mzg3MTg0/MC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/9_2ghDmZae_-UeeYy7m5oc1JVgpI9jOeqTD_k0ElUFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzU4/MjctMTI3Mzg3MTg0/MC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 421628,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/421628",
+		"date_added": "2017-04-21T11:14:33-07:00",
+		"basic_information": {
+			"id": 421628,
+			"master_id": 193407,
+			"master_url": "https://api.discogs.com/masters/193407",
+			"resource_url": "https://api.discogs.com/releases/421628",
+			"title": "Asphyx",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Asphyx (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 272542, "resource_url": "https://api.discogs.com/artists/272542" }],
+			"labels": [{ "name": "Century Media", "catno": "77063-2", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/_Ku-Do2TH749HX-dZgBXLP7uWdfNaBcarQV6SobFA8I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTYy/OC0xNTY5NDUwMjUw/LTQ5MDMuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/ohHkB68OO2-Gb9Sm5sk5dg4BPloSNT1rgZvVc6rRFrA/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTYy/OC0xNTY5NDUwMjUw/LTQ5MDMuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 9402374,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/9402374",
+		"date_added": "2017-04-21T11:32:30-07:00",
+		"basic_information": {
+			"id": 9402374,
+			"master_id": 250712,
+			"master_url": "https://api.discogs.com/masters/250712",
+			"resource_url": "https://api.discogs.com/releases/9402374",
+			"title": "And The Cannons Of Destruction Have Begun...",
+			"year": 2016,
+			"formats": [
+				{ "name": "All Media", "qty": "1", "descriptions": ["Reissue"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Album"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Compilation"] }
+			],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "High Roller Records", "catno": "HRR 485 CD", "entity_type": "1", "entity_type_name": "Label", "id": 115401, "resource_url": "https://api.discogs.com/labels/115401" }],
+			"thumb": "https://i.discogs.com/JaXwaHGNeEVLHJYB57gzltQ4kT6haVG3tP4hQlL0fX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDIz/NzQtMTU0NTkwMjE2/Ny00ODc4LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/13JhE3dqI2xMGXfas6bqRZA-AlUcjnYldqXwNX5H5S8/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MDIz/NzQtMTU0NTkwMjE2/Ny00ODc4LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3583114,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3583114",
+		"date_added": "2017-04-21T11:32:56-07:00",
+		"basic_information": {
+			"id": 3583114,
+			"master_id": 250712,
+			"master_url": "https://api.discogs.com/masters/250712",
+			"resource_url": "https://api.discogs.com/releases/3583114",
+			"title": "And The Cannons Of Destruction Have Begun...",
+			"year": 1997,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "Metal Blade Records", "catno": "3984-14224-2", "entity_type": "1", "entity_type_name": "Label", "id": 45267, "resource_url": "https://api.discogs.com/labels/45267" }],
+			"thumb": "https://i.discogs.com/glCclMfhqkJss-gSzl6QGLbWEsI4evalxXd3al3mP0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODMx/MTQtMTY2NDk5NzEy/Mi0yNjA0LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/Quv25b45zor4TUs7ABDVuRUegxg2rCURGI3nI3aGxQg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODMx/MTQtMTY2NDk5NzEy/Mi0yNjA0LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 863372,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/863372",
+		"date_added": "2018-12-26T09:09:19-08:00",
+		"basic_information": {
+			"id": 863372,
+			"master_id": 27562,
+			"master_url": "https://api.discogs.com/masters/27562",
+			"resource_url": "https://api.discogs.com/releases/863372",
+			"title": "Alternative 4",
+			"year": 0,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"], "text": "Digipak" }],
+			"artists": [{ "name": "Anathema", "anv": "", "join": "", "role": "", "tracks": "", "id": 100137, "resource_url": "https://api.discogs.com/artists/100137" }],
+			"labels": [{ "name": "Peaceville", "catno": "CDVILED 73", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }],
+			"thumb": "https://i.discogs.com/hgVxvzqRJBLil5ayseGUE7DYXkBn_0ashaIy0wYgrJM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzM3/Mi0xMTY2NzAxMjM4/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/s8SjtPO-s9mBaqzOGT6vcOcCsQUNH_BSOnESHDJ03X0/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MzM3/Mi0xMTY2NzAxMjM4/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Alternative Rock", "Prog Rock"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 851039,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/851039",
+		"date_added": "2023-10-06T08:07:02-07:00",
+		"basic_information": {
+			"id": 851039,
+			"master_id": 1500,
+			"master_url": "https://api.discogs.com/masters/1500",
+			"resource_url": "https://api.discogs.com/releases/851039",
+			"title": "Altar",
+			"year": 2007,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Album"] },
+				{ "name": "CD", "qty": "1", "descriptions": [] },
+				{ "name": "All Media", "qty": "1", "descriptions": ["Limited Edition"] }
+			],
+			"artists": [
+				{ "name": "Sunn O)))", "anv": "", "join": "&", "role": "", "tracks": "", "id": 218169, "resource_url": "https://api.discogs.com/artists/218169" },
+				{ "name": "Boris (3)", "anv": "", "join": "", "role": "", "tracks": "", "id": 267726, "resource_url": "https://api.discogs.com/artists/267726" }
+			],
+			"labels": [
+				{ "name": "Inoxia Records", "catno": "IXCD-0006", "entity_type": "1", "entity_type_name": "Label", "id": 35710, "resource_url": "https://api.discogs.com/labels/35710" },
+				{ "name": "Inoxia Records", "catno": "IXCD-0006S", "entity_type": "1", "entity_type_name": "Label", "id": 35710, "resource_url": "https://api.discogs.com/labels/35710" }
+			],
+			"thumb": "https://i.discogs.com/XiId_A2fQxUbF_xw5f00UwzWVGwtFuu0BKdMN5RqyYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTAz/OS0xMTY1MzE5ODgx/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/RNFwS75fn9YofjsFH0wXBHPcxGbrabOyan_bofaVy5c/rs:fit/g:sm/q:90/h:194/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTAz/OS0xMTY1MzE5ODgx/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Doom Metal", "Post Rock", "Experimental"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2624225,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2624225",
+		"date_added": "2018-12-25T12:21:31-08:00",
+		"basic_information": {
+			"id": 2624225,
+			"master_id": 5558,
+			"master_url": "https://api.discogs.com/masters/5558",
+			"resource_url": "https://api.discogs.com/releases/2624225",
+			"title": "A Blaze In The Northern Sky",
+			"year": 1992,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [{ "name": "Peaceville", "catno": "VILE 28CD", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" }],
+			"thumb": "https://i.discogs.com/qyY94YDDiQWsRUN5dJeEOkXDoRjb6J3UZnZVmqVhpPs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQy/MjUtMTcxMjUzMTU1/MC00OTA3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/fo_pUEoO2zv__Ghfw7O5YgK0hnsADmYDUM_uOdlRHlk/rs:fit/g:sm/q:90/h:590/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MjQy/MjUtMTcxMjUzMTU1/MC00OTA3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 10538119,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/10538119",
+		"date_added": "2018-12-26T11:06:23-08:00",
+		"basic_information": {
+			"id": 10538119,
+			"master_id": 27839,
+			"master_url": "https://api.discogs.com/masters/27839",
+			"resource_url": "https://api.discogs.com/releases/10538119",
+			"title": "Wolfheart",
+			"year": 1995,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"], "text": "Digipak" }],
+			"artists": [{ "name": "Moonspell", "anv": "", "join": "", "role": "", "tracks": "", "id": 93817, "resource_url": "https://api.discogs.com/artists/93817" }],
+			"labels": [{ "name": "Century Media", "catno": "77112-2", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/8w7fPwhljgyImiCuCR_7JzIrRq-mg_cVACDL45CWbso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MTE5LTE0OTk0NzYx/NTctMTM1MC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/PTBZsCoUBqWCzezA97FGqOQriP637LlCAeBjNXBfPj8/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTM4/MTE5LTE0OTk0NzYx/NTctMTM1MC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Gothic Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 7125640,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/7125640",
+		"date_added": "2018-12-26T11:06:31-08:00",
+		"basic_information": {
+			"id": 7125640,
+			"master_id": 27839,
+			"master_url": "https://api.discogs.com/masters/27839",
+			"resource_url": "https://api.discogs.com/releases/7125640",
+			"title": "Wolfheart",
+			"year": 1995,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"], "text": "Digipak" }],
+			"artists": [{ "name": "Moonspell", "anv": "", "join": "", "role": "", "tracks": "", "id": 93817, "resource_url": "https://api.discogs.com/artists/93817" }],
+			"labels": [{ "name": "Century Media", "catno": "77112-2", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }],
+			"thumb": "https://i.discogs.com/cYJy4Nog26Nki6vj7sm0kmnQg87r16EToqd-jGSSVV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjU2/NDAtMTQzNDI5MjY2/Ni0zMTA1LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/IsOncsb4NQa1elHkAB7yfHIuZZhzmMGX3L_y0kp2E5w/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjU2/NDAtMTQzNDI5MjY2/Ni0zMTA1LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Goth Rock", "Black Metal", "Doom Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 16247501,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/16247501",
+		"date_added": "2024-02-29T05:09:40-08:00",
+		"basic_information": {
+			"id": 16247501,
+			"master_id": 1061309,
+			"master_url": "https://api.discogs.com/masters/1061309",
+			"resource_url": "https://api.discogs.com/releases/16247501",
+			"title": "Winter's Gate",
+			"year": 2020,
+			"formats": [{ "name": "Vinyl", "qty": "1", "descriptions": ["LP", "Album", "Limited Edition", "Numbered", "Reissue"], "text": "Black With Gold and Grey Splatter" }],
+			"artists": [{ "name": "Insomnium", "anv": "", "join": "", "role": "", "tracks": "", "id": 357644, "resource_url": "https://api.discogs.com/artists/357644" }],
+			"labels": [
+				{ "name": "Northeast Steel Industry", "catno": "NESV-2031", "entity_type": "1", "entity_type_name": "Label", "id": 1445323, "resource_url": "https://api.discogs.com/labels/1445323" },
+				{ "name": "Century Media", "catno": "88985348281", "entity_type": "1", "entity_type_name": "Label", "id": 10956, "resource_url": "https://api.discogs.com/labels/10956" }
+			],
+			"thumb": "https://i.discogs.com/mzA9CYPvSKRY29ErfEE-7CFvDHAxG8C_Lzgwd1JT-uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/NTAxLTE2MDcwMDEy/MjktOTQ4OS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/43nGMI4WZQZM3R0yxSy1LI46EUENxD-y88CSGnFHGYw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQ3/NTAxLTE2MDcwMDEy/MjktOTQ4OS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Melodic Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 962296,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/962296",
+		"date_added": "2024-09-27T07:04:20-07:00",
+		"basic_information": {
+			"id": 962296,
+			"master_id": 2338,
+			"master_url": "https://api.discogs.com/masters/2338",
+			"resource_url": "https://api.discogs.com/releases/962296",
+			"title": "White2",
+			"year": 2007,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Reissue"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Mini", "Reissue"] },
+				{ "name": "All Media", "qty": "1", "descriptions": ["Compilation"] }
+			],
+			"artists": [{ "name": "Sunn O)))", "anv": "", "join": "", "role": "", "tracks": "", "id": 218169, "resource_url": "https://api.discogs.com/artists/218169" }],
+			"labels": [{ "name": "Daymare Recordings", "catno": "DYMC-027", "entity_type": "1", "entity_type_name": "Label", "id": 29944, "resource_url": "https://api.discogs.com/labels/29944" }],
+			"thumb": "https://i.discogs.com/Kw9Pgjs4MPlhj8w22caePqAMzmjlGczAZoQjKYp9ImQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjI5/Ni0xMTc4MTM2NDM2/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/v45UnqCRxG8Z2mlIl4ajZidl3SVGF2LFnpGASggg-pk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjI5/Ni0xMTc4MTM2NDM2/LmpwZWc.jpeg",
+			"genres": ["Electronic", "Rock"],
+			"styles": ["Doom Metal", "Experimental", "Ambient"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 962263,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/962263",
+		"date_added": "2024-09-27T07:04:01-07:00",
+		"basic_information": {
+			"id": 962263,
+			"master_id": 2274,
+			"master_url": "https://api.discogs.com/masters/2274",
+			"resource_url": "https://api.discogs.com/releases/962263",
+			"title": "White1",
+			"year": 2007,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Reissue"] }
+			],
+			"artists": [{ "name": "Sunn O)))", "anv": "", "join": "", "role": "", "tracks": "", "id": 218169, "resource_url": "https://api.discogs.com/artists/218169" }],
+			"labels": [
+				{ "name": "Daymare Recordings", "catno": "DYMC-026", "entity_type": "1", "entity_type_name": "Label", "id": 29944, "resource_url": "https://api.discogs.com/labels/29944" },
+				{ "name": "Daymare Recordings", "catno": "TGCS-4110", "entity_type": "1", "entity_type_name": "Label", "id": 29944, "resource_url": "https://api.discogs.com/labels/29944" },
+				{ "name": "Daymare Recordings", "catno": "TGCS-4111", "entity_type": "1", "entity_type_name": "Label", "id": 29944, "resource_url": "https://api.discogs.com/labels/29944" }
+			],
+			"thumb": "https://i.discogs.com/5EgidL711beZAer57Kc5U8QK96NosYLFHVxQXnGQ9Gw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjI2/My0xMTc4MTM1OTMw/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/MVBCw5lAAa5cgVzYBoh4O2tmIQIld4ilWhZMKri_Qv4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MjI2/My0xMTc4MTM1OTMw/LmpwZWc.jpeg",
+			"genres": ["Electronic", "Rock", "Non-Music"],
+			"styles": ["Drone", "Experimental", "Interview", "Ambient"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 27176574,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/27176574",
+		"date_added": "2024-06-18T04:37:31-07:00",
+		"basic_information": {
+			"id": 27176574,
+			"master_id": 3108162,
+			"master_url": "https://api.discogs.com/masters/3108162",
+			"resource_url": "https://api.discogs.com/releases/27176574",
+			"title": "War Against All",
+			"year": 2023,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Stereo"], "text": "Digipak" }],
+			"artists": [{ "name": "Immortal", "anv": "", "join": "", "role": "", "tracks": "", "id": 206770, "resource_url": "https://api.discogs.com/artists/206770" }],
+			"labels": [
+				{ "name": "Nuclear Blast", "catno": "58090", "entity_type": "1", "entity_type_name": "Label", "id": 11499, "resource_url": "https://api.discogs.com/labels/11499" },
+				{ "name": "Nuclear Blast", "catno": "NB 5809-0", "entity_type": "1", "entity_type_name": "Label", "id": 11499, "resource_url": "https://api.discogs.com/labels/11499" }
+			],
+			"thumb": "https://i.discogs.com/j774nTJxyLd9D2jZuAGNxMK9bNNfEaB_2m5LRLfxjzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc2/NTc0LTE2ODUwMzUx/MTYtNDU3OS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/g8MxPa4VEmUZBINVpibNjEMurmkj26Jo34PBF69WwME/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTc2/NTc0LTE2ODUwMzUx/MTYtNDU3OS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 5987473,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/5987473",
+		"date_added": "2018-12-22T13:49:44-08:00",
+		"basic_information": {
+			"id": 5987473,
+			"master_id": 340640,
+			"master_url": "https://api.discogs.com/masters/340640",
+			"resource_url": "https://api.discogs.com/releases/5987473",
+			"title": "Voyager",
+			"year": 2014,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Shadow Kingdom Records", "catno": "SKR083CD", "entity_type": "1", "entity_type_name": "Label", "id": 104549, "resource_url": "https://api.discogs.com/labels/104549" }],
+			"thumb": "https://i.discogs.com/37G3CUFP7vdjxqZvftdcUd1X8Xod-ZM4HuAiphXjeJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc0/NzMtMTQwODE1NjI3/OC0xOTQ0LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/aop99TEII2T-OAKQmUdkyKQbbgMBorRkAwXSexLBp1c/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODc0/NzMtMTQwODE1NjI3/OC0xOTQ0LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2912335,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2912335",
+		"date_added": "2018-12-22T13:49:35-08:00",
+		"basic_information": {
+			"id": 2912335,
+			"master_id": 340640,
+			"master_url": "https://api.discogs.com/masters/340640",
+			"resource_url": "https://api.discogs.com/releases/2912335",
+			"title": "Voyager",
+			"year": 2008,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "My Graveyard Productions", "catno": "MGP-022", "entity_type": "1", "entity_type_name": "Label", "id": 174942, "resource_url": "https://api.discogs.com/labels/174942" }],
+			"thumb": "https://i.discogs.com/M3IjcvXDDwsU9xjgzLTzDn9Jg4lzhvBAOOU0QARnLtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTIz/MzUtMTM1MTExMzcw/OS04Njg2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/u9LPrP-zqcR45VO0Zfsb9F_nZcaLsHC3xrBVjTO1KaI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTIz/MzUtMTM1MTExMzcw/OS04Njg2LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 4159254,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/4159254",
+		"date_added": "2017-01-10T04:18:02-08:00",
+		"basic_information": {
+			"id": 4159254,
+			"master_id": 28337,
+			"master_url": "https://api.discogs.com/masters/28337",
+			"resource_url": "https://api.discogs.com/releases/4159254",
+			"title": "Vikingligr Veldi",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Repress"] }],
+			"artists": [{ "name": "Enslaved", "anv": "", "join": "", "role": "", "tracks": "", "id": 254850, "resource_url": "https://api.discogs.com/artists/254850" }],
+			"labels": [{ "name": "Deathlike Silence Productions", "catno": "Anti Mosh 008", "entity_type": "1", "entity_type_name": "Label", "id": 33326, "resource_url": "https://api.discogs.com/labels/33326" }],
+			"thumb": "https://i.discogs.com/9eojM__JvRF4pmnBjMteSN4ORHTuAtri0Nbb27Oaflk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTky/NTQtMTM1NzI1NjI5/My02MTA3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/hMb9rGmDVNwrzYYmOCbT5uvNstLicZdLK8W2xO8kLag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNTky/NTQtMTM1NzI1NjI5/My02MTA3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Viking Metal", "Black Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 13588311,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/13588311",
+		"date_added": "2024-04-16T15:01:57-07:00",
+		"basic_information": {
+			"id": 13588311,
+			"master_id": 1544421,
+			"master_url": "https://api.discogs.com/masters/1544421",
+			"resource_url": "https://api.discogs.com/releases/13588311",
+			"title": "Up The Tombstones!!! Live 2000",
+			"year": 2002,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Deceased", "anv": "", "join": "", "role": "", "tracks": "", "id": 276345, "resource_url": "https://api.discogs.com/artists/276345" }],
+			"labels": [{ "name": "Thrash Corner Records", "catno": "THCR-011", "entity_type": "1", "entity_type_name": "Label", "id": 148172, "resource_url": "https://api.discogs.com/labels/148172" }],
+			"thumb": "https://i.discogs.com/8agIhvEk474j5oc9Z8WRTa-WBwA4_NQJQRhbaLoXcyY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg4/MzExLTE1NTcwNDcy/OTctMzA1NC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/KJHzIkand6AKqXKX9J1m94uou-SEz6vEYwmiz9OvpKg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg4/MzExLTE1NTcwNDcy/OTctMzA1NC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Thrash", "Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 6378120,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/6378120",
+		"date_added": "2017-12-25T07:49:33-08:00",
+		"basic_information": {
+			"id": 6378120,
+			"master_id": 766436,
+			"master_url": "https://api.discogs.com/masters/766436",
+			"resource_url": "https://api.discogs.com/releases/6378120",
+			"title": "Twilight Of The Gods",
+			"year": 2014,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Single", "Limited Edition"] }],
+			"artists": [{ "name": "Blind Guardian", "anv": "", "join": "", "role": "", "tracks": "", "id": 262577, "resource_url": "https://api.discogs.com/artists/262577" }],
+			"labels": [
+				{ "name": "Nuclear Blast", "catno": "NB 3399-0", "entity_type": "1", "entity_type_name": "Label", "id": 11499, "resource_url": "https://api.discogs.com/labels/11499" },
+				{ "name": "Nuclear Blast", "catno": "27361 33990", "entity_type": "1", "entity_type_name": "Label", "id": 11499, "resource_url": "https://api.discogs.com/labels/11499" }
+			],
+			"thumb": "https://i.discogs.com/ntruJ1Mm0PJTjXWnsDvAvL_CdBcm72jikAZQi0aMrDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzgx/MjAtMTU1NDgwODc4/OC01MTg4LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/nGCNJaSyN3ao9mBwC-LfAfv52dw02cLGv5kxDsgjM4I/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzNzgx/MjAtMTU1NDgwODc4/OC01MTg4LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2967280,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2967280",
+		"date_added": "2018-12-26T22:57:13-08:00",
+		"basic_information": {
+			"id": 2967280,
+			"master_id": 220938,
+			"master_url": "https://api.discogs.com/masters/220938",
+			"resource_url": "https://api.discogs.com/releases/2967280",
+			"title": "Trapped!",
+			"year": 1992,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Remastered"] }],
+			"artists": [{ "name": "Rage (6)", "anv": "", "join": "", "role": "", "tracks": "", "id": 354918, "resource_url": "https://api.discogs.com/artists/354918" }],
+			"labels": [{ "name": "Noise International", "catno": "VICP-5160", "entity_type": "1", "entity_type_name": "Label", "id": 33149, "resource_url": "https://api.discogs.com/labels/33149" }],
+			"thumb": "https://i.discogs.com/enVhKYiVdRUF5SeOAH4Li-3FgC8-ZCxv99LA4jH74Ck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcy/ODAtMTU0NDI1MzMw/MC03NTMxLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/lEjVOwSqNcSrhsCKF03rCzUuECYCnyBlHHKUbf7GKsE/rs:fit/g:sm/q:90/h:480/w:553/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Njcy/ODAtMTU0NDI1MzMw/MC03NTMxLmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Thrash", "Speed Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 666613,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/666613",
+		"date_added": "2017-01-10T04:21:46-08:00",
+		"basic_information": {
+			"id": 666613,
+			"master_id": 21580,
+			"master_url": "https://api.discogs.com/masters/21580",
+			"resource_url": "https://api.discogs.com/releases/666613",
+			"title": "Too Old Too Cold",
+			"year": 2006,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Single"] }],
+			"artists": [{ "name": "Darkthrone", "anv": "", "join": "", "role": "", "tracks": "", "id": 252211, "resource_url": "https://api.discogs.com/artists/252211" }],
+			"labels": [
+				{ "name": "Peaceville", "catno": "CDVILES145", "entity_type": "1", "entity_type_name": "Label", "id": 14465, "resource_url": "https://api.discogs.com/labels/14465" },
+				{ "name": "Tyrant Syndicate", "catno": "CDVILES145", "entity_type": "1", "entity_type_name": "Label", "id": 76025, "resource_url": "https://api.discogs.com/labels/76025" }
+			],
+			"thumb": "https://i.discogs.com/wLWE3QV4GI4GF6VfbFqCO9nWEv_0_iXX39GfPv9MHTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYx/My0xMTU3MDI2NTM0/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/3Mao6ZPW2Gt5aMK1Bl06eLLbWWbC01-R6x63vzhiK48/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NjYx/My0xMTU3MDI2NTM0/LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Rock & Roll", "Punk"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 490641,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/490641",
+		"date_added": "2016-12-05T07:08:42-08:00",
+		"basic_information": {
+			"id": 490641,
+			"master_id": 12774,
+			"master_url": "https://api.discogs.com/masters/12774",
+			"resource_url": "https://api.discogs.com/releases/490641",
+			"title": "To Mega Therion",
+			"year": 1988,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Stereo"] }],
+			"artists": [{ "name": "Celtic Frost", "anv": "", "join": "", "role": "", "tracks": "", "id": 251679, "resource_url": "https://api.discogs.com/artists/251679" }],
+			"labels": [{ "name": "Noise International", "catno": "N 0031-3", "entity_type": "1", "entity_type_name": "Label", "id": 33149, "resource_url": "https://api.discogs.com/labels/33149" }],
+			"thumb": "https://i.discogs.com/nrLMHXnZDZpcbbEkGxOQ_ky2FxXnP_y1pcRGq8PocMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDY0/MS0xNTkzOTk3Nzgz/LTczNDcuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/9q7SpSsKWyi9HvrEtqaG5Br56ccLnwRqFTXphSJ9dcM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MDY0/MS0xNTkzOTk3Nzgz/LTczNDcuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Doom Metal", "Avantgarde", "Thrash"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 10541039,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/10541039",
+		"date_added": "2018-12-22T13:47:00-08:00",
+		"basic_information": {
+			"id": 10541039,
+			"master_id": 1206659,
+			"master_url": "https://api.discogs.com/masters/1206659",
+			"resource_url": "https://api.discogs.com/releases/10541039",
+			"title": "To Kill A King",
+			"year": 2017,
+			"formats": [
+				{ "name": "Box Set", "qty": "1", "descriptions": ["Deluxe Edition", "Special Edition"] },
+				{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "Digipak" },
+				{ "name": "CD", "qty": "1", "descriptions": ["Single"] }
+			],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Golden Core", "catno": "GCR 20111-2D", "entity_type": "1", "entity_type_name": "Label", "id": 73744, "resource_url": "https://api.discogs.com/labels/73744" }],
+			"thumb": "https://i.discogs.com/a80iLI7V6ioEq0RVylZTJLxvB-2VmdHkbqLnKriwvVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/MDM5LTE0OTk2Mzcw/NjItNTYzNy5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/00625VM4-mRFbN23G174YNQBsUwNb6iHAHvzLw5zh3s/rs:fit/g:sm/q:90/h:355/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTQx/MDM5LTE0OTk2Mzcw/NjItNTYzNy5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 10584296,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/10584296",
+		"date_added": "2018-12-22T13:47:01-08:00",
+		"basic_information": {
+			"id": 10584296,
+			"master_id": 1206659,
+			"master_url": "https://api.discogs.com/masters/1206659",
+			"resource_url": "https://api.discogs.com/releases/10584296",
+			"title": "To Kill A King",
+			"year": 2017,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"], "text": "Digipak" }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Golden Core", "catno": "GCR 20111-2", "entity_type": "1", "entity_type_name": "Label", "id": 73744, "resource_url": "https://api.discogs.com/labels/73744" }],
+			"thumb": "https://i.discogs.com/vK_9sW0UR7EPb7aG6Bs8CN_u24e8nGEh10WpNzAQ5q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg0/Mjk2LTE3MTk1Mjc2/NDUtNzY5Ny5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/4fdw_aL8ojDtrNMNDdRtgYkMdet6WyPUdDvGchPmMc8/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg0/Mjk2LTE3MTk1Mjc2/NDUtNzY5Ny5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 21577780,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/21577780",
+		"date_added": "2024-04-16T15:06:09-07:00",
+		"basic_information": {
+			"id": 21577780,
+			"master_id": 0,
+			"master_url": null,
+			"resource_url": "https://api.discogs.com/releases/21577780",
+			"title": "Thrash Times At Ridgemont High",
+			"year": 2021,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Deceased", "anv": "", "join": "", "role": "", "tracks": "", "id": 276345, "resource_url": "https://api.discogs.com/artists/276345" }],
+			"labels": [{ "name": "Hells Headbangers", "catno": "2021 / HELLS 300", "entity_type": "1", "entity_type_name": "Label", "id": 35513, "resource_url": "https://api.discogs.com/labels/35513" }],
+			"thumb": "https://i.discogs.com/_n1yt3KGEG-7yUSRp7U4dovUyDkHkb1ksx1UaIwHZ0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTc3/NzgwLTE2ODcyMTIw/MTEtNzA2NS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/QKqFnIJFsRrJQj0NKdz9RuPNs7MGir7wAC6IV5XJRE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTc3/NzgwLTE2ODcyMTIw/MTEtNzA2NS5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Thrash", "Speed Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2083124,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2083124",
+		"date_added": "2018-12-25T07:13:20-08:00",
+		"basic_information": {
+			"id": 2083124,
+			"master_id": 227835,
+			"master_url": "https://api.discogs.com/masters/227835",
+			"resource_url": "https://api.discogs.com/releases/2083124",
+			"title": "The Reaper",
+			"year": 1993,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Grave Digger (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 300395, "resource_url": "https://api.discogs.com/artists/300395" }],
+			"labels": [
+				{ "name": "GUN", "catno": "GUN 032", "entity_type": "1", "entity_type_name": "Label", "id": 73615, "resource_url": "https://api.discogs.com/labels/73615" },
+				{ "name": "GUN", "catno": "74321 17142 2", "entity_type": "1", "entity_type_name": "Label", "id": 73615, "resource_url": "https://api.discogs.com/labels/73615" }
+			],
+			"thumb": "https://i.discogs.com/LsvrM5KCfFU13M_MUenEN9faOKRNo1wm6ZhD6mIfr4c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODMx/MjQtMTQ3NTA0NzYz/Ny04ODA3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/qlyb1R08ELH0WHTudAjkqbLUAz10m-bVh1e3k2yYrz0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODMx/MjQtMTQ3NTA0NzYz/Ny04ODA3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal", "Speed Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 378300,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/378300",
+		"date_added": "2019-05-22T02:35:37-07:00",
+		"basic_information": {
+			"id": 378300,
+			"master_id": 11167,
+			"master_url": "https://api.discogs.com/masters/11167",
+			"resource_url": "https://api.discogs.com/releases/378300",
+			"title": "The Principle Of Evil Made Flesh",
+			"year": 1994,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Cradle Of Filth", "anv": "", "join": "", "role": "", "tracks": "", "id": 245811, "resource_url": "https://api.discogs.com/artists/245811" }],
+			"labels": [
+				{ "name": "Cacophonous Records", "catno": "NIHIL1CD", "entity_type": "1", "entity_type_name": "Label", "id": 30083, "resource_url": "https://api.discogs.com/labels/30083" },
+				{ "name": "Cacophonous Records", "catno": "Nihil 1CD", "entity_type": "1", "entity_type_name": "Label", "id": 30083, "resource_url": "https://api.discogs.com/labels/30083" },
+				{ "name": "Cacophonous Records", "catno": "Nihil 1 CD", "entity_type": "1", "entity_type_name": "Label", "id": 30083, "resource_url": "https://api.discogs.com/labels/30083" }
+			],
+			"thumb": "https://i.discogs.com/AA77-Ok478jKK0PyEWKtl8dwrFkEN8YnDogzsWo6hbo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODMw/MC0xMzcwODI0Mjk2/LTg4MDkuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/CDy88dqIrNO9sNSFJviDGX1Z1pBGRtRhTm04kr4JYP4/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODMw/MC0xMzcwODI0Mjk2/LTg4MDkuanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Black Metal", "Gothic Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 4073240,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/4073240",
+		"date_added": "2018-12-26T22:59:24-08:00",
+		"basic_information": {
+			"id": 4073240,
+			"master_id": 220940,
+			"master_url": "https://api.discogs.com/masters/220940",
+			"resource_url": "https://api.discogs.com/releases/4073240",
+			"title": "The Missing Link = ザ・ミッシング・リンク",
+			"year": 1993,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Stereo"] }],
+			"artists": [{ "name": "Rage (6)", "anv": "", "join": "", "role": "", "tracks": "", "id": 354918, "resource_url": "https://api.discogs.com/artists/354918" }],
+			"labels": [
+				{ "name": "Noise International", "catno": "VICP-5265", "entity_type": "1", "entity_type_name": "Label", "id": 33149, "resource_url": "https://api.discogs.com/labels/33149" },
+				{ "name": "Noise International", "catno": "VICP 5265", "entity_type": "1", "entity_type_name": "Label", "id": 33149, "resource_url": "https://api.discogs.com/labels/33149" }
+			],
+			"thumb": "https://i.discogs.com/5E0sCpUpVPBbreyGJS7sOoNaFhK6XpR9UESAuDgrPuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMy/NDAtMTQxMDg0OTI3/MS05ODg3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/QkDAkbPSxtI8pjo6YMRc2-FCFPPP1rOsCef_YSShdZU/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMy/NDAtMTQxMDg0OTI3/MS05ODg3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 5739659,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/5739659",
+		"date_added": "2017-04-21T11:29:58-07:00",
+		"basic_information": {
+			"id": 5739659,
+			"master_id": 594122,
+			"master_url": "https://api.discogs.com/masters/594122",
+			"resource_url": "https://api.discogs.com/releases/5739659",
+			"title": "The Holy Empire",
+			"year": 2013,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album"] }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "Rubicon Music", "catno": "RBNCD-1149", "entity_type": "1", "entity_type_name": "Label", "id": 202574, "resource_url": "https://api.discogs.com/labels/202574" }],
+			"thumb": "https://i.discogs.com/8jjvwwz04EPKLBKrYxP3JysoVIgp_neurbMTWXtrOPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk2/NTktMTUxOTkwNTEw/OC01ODE0LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/qOSrO0XBdsbO7_bWfP-4ibO4SCMX5F_Y7RsZ_TPfGWM/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3Mzk2/NTktMTUxOTkwNTEw/OC01ODE0LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 7852718,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/7852718",
+		"date_added": "2024-01-28T15:05:35-08:00",
+		"basic_information": {
+			"id": 7852718,
+			"master_id": 594122,
+			"master_url": "https://api.discogs.com/masters/594122",
+			"resource_url": "https://api.discogs.com/releases/7852718",
+			"title": "The Holy Empire",
+			"year": 2015,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Limited Edition", "Numbered", "Reissue"], "text": "Digipak" }],
+			"artists": [{ "name": "Warlord (2)", "anv": "", "join": "", "role": "", "tracks": "", "id": 290234, "resource_url": "https://api.discogs.com/artists/290234" }],
+			"labels": [{ "name": "Alone Records (4)", "catno": "ALONE-0024", "entity_type": "1", "entity_type_name": "Label", "id": 586770, "resource_url": "https://api.discogs.com/labels/586770" }],
+			"thumb": "https://i.discogs.com/04TcbHBRrSv73TFLqEgxLVh704K0Ri1KqMcmQM1f2EM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTI3/MTgtMTYzMjQ4NzIz/NC03Njg5LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/9Pa9oBiD-GZX44G_9QcJsUyHZOFLLeSq7YUc1El4u5M/rs:fit/g:sm/q:90/h:294/w:347/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4NTI3/MTgtMTYzMjQ4NzIz/NC03Njg5LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 1150047,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/1150047",
+		"date_added": "2024-09-27T07:06:43-07:00",
+		"basic_information": {
+			"id": 1150047,
+			"master_id": 2328,
+			"master_url": "https://api.discogs.com/masters/2328",
+			"resource_url": "https://api.discogs.com/releases/1150047",
+			"title": "The GrimmRobe Demos",
+			"year": 2007,
+			"formats": [{ "name": "CD", "qty": "2", "descriptions": ["Reissue"] }],
+			"artists": [{ "name": "Sunn O)))", "anv": "", "join": "", "role": "", "tracks": "", "id": 218169, "resource_url": "https://api.discogs.com/artists/218169" }],
+			"labels": [{ "name": "Daymare Recordings", "catno": "DYMC-023", "entity_type": "1", "entity_type_name": "Label", "id": 29944, "resource_url": "https://api.discogs.com/labels/29944" }],
+			"thumb": "https://i.discogs.com/G94TBmfQ2FFdxHAJemc7ZTeGINp_iXM-ce2WZGEIA9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/NDctMTE5NjE3NDA3/Ni5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/Ac6Je52I77nJdNNedOW7jixU0GRdIxIZ9RSfLjRAg-k/rs:fit/g:sm/q:90/h:489/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTAw/NDctMTE5NjE3NDA3/Ni5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Drone"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 857861,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/857861",
+		"date_added": "2024-03-16T03:24:17-07:00",
+		"basic_information": {
+			"id": 857861,
+			"master_id": 236116,
+			"master_url": "https://api.discogs.com/masters/236116",
+			"resource_url": "https://api.discogs.com/releases/857861",
+			"title": "The Eldest Cosmonaut",
+			"year": 1998,
+			"formats": [
+				{ "name": "CD", "qty": "1", "descriptions": ["Maxi-Single", "Limited Edition"] },
+				{ "name": "VHS", "qty": "1", "descriptions": ["Limited Edition", "PAL", "SECAM"] }
+			],
+			"artists": [{ "name": "Septic Flesh", "anv": "", "join": "", "role": "", "tracks": "", "id": 261002, "resource_url": "https://api.discogs.com/artists/261002" }],
+			"labels": [
+				{ "name": "Holy Records", "catno": "HOLY37MCD", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" },
+				{ "name": "Holy Records", "catno": "HOLY 37 MCDVD", "entity_type": "1", "entity_type_name": "Label", "id": 26616, "resource_url": "https://api.discogs.com/labels/26616" }
+			],
+			"thumb": "https://i.discogs.com/T6rp4NJudlHf5zqYtGrv9n8AQKK3-FGK0S3vETY6yK8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzg2/MS0xNjg2NzUwMTk0/LTI4MDguanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/E41V5Y-JW87H-T464H4F_LlP1ex9xZAuOBTBkv_oXQo/rs:fit/g:sm/q:90/h:600/w:526/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1Nzg2/MS0xNjg2NzUwMTk0/LTI4MDguanBlZw.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Modern Classical", "Black Metal", "Death Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 13328979,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/13328979",
+		"date_added": "2024-07-10T03:53:02-07:00",
+		"basic_information": {
+			"id": 13328979,
+			"master_id": 323444,
+			"master_url": "https://api.discogs.com/masters/323444",
+			"resource_url": "https://api.discogs.com/releases/13328979",
+			"title": "The Deluge",
+			"year": 0,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"] }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Shadow Kingdom Records", "catno": "SKR043CD", "entity_type": "1", "entity_type_name": "Label", "id": 104549, "resource_url": "https://api.discogs.com/labels/104549" }],
+			"thumb": "https://i.discogs.com/gc5syJgmQpA2Cm4y2d38ix2QYlze8JJFLyGRwoga8Cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/OTc5LTE2MTM0ODgy/ODctNjI1MC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/SE7kTiUddCu26yn3PbYU-dXJaGPMm9_jozPeFc_zl3k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzI4/OTc5LTE2MTM0ODgy/ODctNjI1MC5qcGVn.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal", "Power Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 2912117,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/2912117",
+		"date_added": "2018-12-22T13:59:13-08:00",
+		"basic_information": {
+			"id": 2912117,
+			"master_id": 323444,
+			"master_url": "https://api.discogs.com/masters/323444",
+			"resource_url": "https://api.discogs.com/releases/2912117",
+			"title": "The Deluge",
+			"year": 2001,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"], "text": "Digipak" }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Underground Symphony", "catno": "HMH CD-001", "entity_type": "1", "entity_type_name": "Label", "id": 85160, "resource_url": "https://api.discogs.com/labels/85160" }],
+			"thumb": "https://i.discogs.com/2yaQ3WhkahII-tCaLMqU92J0Oc8FocFKcdL0ufSCzY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTIx/MTctMTcyNjA0Njkw/NS00NDI3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/EY70Z1aEqQxzJuIP_jkBAoNTOn5AzFTW4Cc3q1kVzdA/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MTIx/MTctMTcyNjA0Njkw/NS00NDI3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 7720004,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/7720004",
+		"date_added": "2018-12-22T13:58:23-08:00",
+		"basic_information": {
+			"id": 7720004,
+			"master_id": 323444,
+			"master_url": "https://api.discogs.com/masters/323444",
+			"resource_url": "https://api.discogs.com/releases/7720004",
+			"title": "The Deluge",
+			"year": 2015,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"], "text": "Digipak" }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Golden Core", "catno": "GCR 20102-2", "entity_type": "1", "entity_type_name": "Label", "id": 73744, "resource_url": "https://api.discogs.com/labels/73744" }],
+			"thumb": "https://i.discogs.com/LmcOIyYFyE0DulwCOR7w6TAYmCU8pkRxTQeXBMhBYxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjAw/MDQtMTU0MTg0OTQx/MC00MjA3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/vK260e57yakjP9xu-Ws8qZy-Lufd8Z_gc0uNyNbZurw/rs:fit/g:sm/q:90/h:531/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3MjAw/MDQtMTU0MTg0OTQx/MC00MjA3LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 3260114,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/3260114",
+		"date_added": "2017-01-10T04:38:43-08:00",
+		"basic_information": {
+			"id": 3260114,
+			"master_id": 323444,
+			"master_url": "https://api.discogs.com/masters/323444",
+			"resource_url": "https://api.discogs.com/releases/3260114",
+			"title": "The Deluge",
+			"year": 2011,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue", "Remastered"] }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Shadow Kingdom Records", "catno": "SKR043CD", "entity_type": "1", "entity_type_name": "Label", "id": 104549, "resource_url": "https://api.discogs.com/labels/104549" }],
+			"thumb": "https://i.discogs.com/U-vOSRjSynVyYI55LoUEkUBydTUNWVUpZKpR62j-BQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjAx/MTQtMTQ5NDg2MjU0/My03MzI2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/J2xY3Vf7FmNt9a5znq0tTMHoet114EyTYsthdhTS8vs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjAx/MTQtMTQ5NDg2MjU0/My03MzI2LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	},
+	{
+		"id": 9127073,
+		"resource_url": "https://api.discogs.com/users/sozhran/wants/9127073",
+		"date_added": "2024-07-10T03:53:34-07:00",
+		"basic_information": {
+			"id": 9127073,
+			"master_id": 323444,
+			"master_url": "https://api.discogs.com/masters/323444",
+			"resource_url": "https://api.discogs.com/releases/9127073",
+			"title": "The Deluge",
+			"year": 2001,
+			"formats": [{ "name": "CD", "qty": "1", "descriptions": ["Album", "Reissue"] }],
+			"artists": [{ "name": "Manilla Road", "anv": "", "join": "", "role": "", "tracks": "", "id": 329937, "resource_url": "https://api.discogs.com/artists/329937" }],
+			"labels": [{ "name": "Underground Symphony", "catno": "HMH CD - 001", "entity_type": "1", "entity_type_name": "Label", "id": 85160, "resource_url": "https://api.discogs.com/labels/85160" }],
+			"thumb": "https://i.discogs.com/-o7RBO1NHu0zCpUHjXX9XHFsabxoHHs6qRSrsIfHLQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjcw/NzMtMTQ3NTI0MDQ5/My0xNTE2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/o_ETK2eAUG90qdvf3MAcY1a3SBtZf1HMwUkMKOM7y7c/rs:fit/g:sm/q:90/h:376/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMjcw/NzMtMTQ3NTI0MDQ5/My0xNTE2LmpwZWc.jpeg",
+			"genres": ["Rock"],
+			"styles": ["Heavy Metal"]
+		},
+		"rating": 0
+	}
+]
