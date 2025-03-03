@@ -4,33 +4,36 @@ const discogsUrl = "https://api.discogs.com/users/sozhran/wants";
 const token = process.env.DISCOGS_TOKEN;
 const key = process.env.NEXT_PUBLIC_CONSUMER_KEY;
 const secret = process.env.NEXT_PUBLIC_CONSUMER_SECRET;
-const pageLimit = 11;
+const pageLimit = 12;
 
 export async function retrieveRatedList() {
 	if (!token) {
 		return;
 	}
 
-	const ids: number[] = [];
+	const ids: string[] = [];
 
 	for (let i = 1; i < pageLimit; i++) {
-		const response = await fetch(
-			`${discogsUrl}` +
-				new URLSearchParams({
-					page: i.toString(),
-					per_page: "100",
-					sort: "rating",
-					sort_order: "desc",
-					token: token,
-				})
-		);
+		//const response = await fetch(
+		//	`${discogsUrl}` +
+		//		new URLSearchParams({
+		//			page: i.toString(),
+		//			per_page: "100",
+		//			sort: "rating",
+		//			sort_order: "desc",
+		//			token: token,
+		//		})
+		//);
+		const response = await fetch(`${discogsUrl}` + `?page=${i.toString()}&per_page=100&sort=rating&sort_order=desc&token=${token}`, { method: "GET", headers: {} });
 		const data = (await response.json()) as WantlistResponse;
 
-		data.wants.map((item: WantlistRecord) => {
-			if (item.rating > 0) {
-				ids.push(item.id);
-			}
-		});
+		if (data.wants) {
+			data.wants.map((item: WantlistRecord) => {
+				if ((item.rating = 5)) {
+					ids.push(item.id.toString());
+				}
+			});
+		}
 	}
 
 	return ids;

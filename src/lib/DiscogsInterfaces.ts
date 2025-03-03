@@ -9,7 +9,7 @@ export interface Pagination {
 export interface BasicInformation {
 	id: number;
 	master_id?: number;
-	master_url: string;
+	master_url: string | null;
 	resource_url: string;
 	thumb: string;
 	cover_image: string;
@@ -18,10 +18,11 @@ export interface BasicInformation {
 	genres: string[];
 	styles: string[];
 	artists: Artist[];
-	formats: Formats[];
+	formats: Format[];
+	labels: Label[];
 }
 
-interface Formats {
+export interface Format {
 	descriptions: string[];
 	name: string;
 	qty: string;
@@ -30,12 +31,21 @@ interface Formats {
 
 export interface Artist {
 	anv: string;
-	id: string;
+	id: number;
 	name: string;
 	resource_url: string;
 	role: string;
 	tracks: string;
 	join?: string;
+}
+
+export interface Label {
+	name: string;
+	catno: string;
+	entity_type: string;
+	entity_type_name: string;
+	id: number;
+	resource_url: string;
 }
 
 // WANTLIST INTERFACES

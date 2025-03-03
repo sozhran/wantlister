@@ -100,3 +100,13 @@ h1 {
 	height: 40px;
 	width: 100%;
 }
+
+.record-table {
+	width: 500px;
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+}

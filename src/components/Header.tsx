@@ -1,7 +1,10 @@
 import Image from "next/image";
 import Logo from "@/app/images/logo.png";
+import { retrieveRatedList } from "@/functions/DiscogsProcessing";
 
-export default function Header() {
+export default async function Header() {
+	//const ratedList = await retrieveRatedList();
+
 	return (
 		<div key="header" className="header">
 			<div className="header-side">
@@ -10,7 +13,7 @@ export default function Header() {
 			<div>
 				<h1>WANTLISTER</h1>
 			</div>
-			<div className="header-side"></div>
+			<div className="header-side">{/*{ratedList ? ratedList.length : "0"}*/}</div>
 		</div>
 	);
 }
