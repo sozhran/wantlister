@@ -1,9 +1,8 @@
 import Image from "next/image";
 import { WantlistRecord, Artist, Format } from "@/lib/DiscogsInterfaces";
 
-interface Props {
-	record: WantlistRecord;
-	i: number;
+interface RecordTableRowProps {
+	item: WantlistRecord;
 }
 
 export interface RecordTableProps {
@@ -13,20 +12,10 @@ export interface RecordTableProps {
 export function RecordTable(props: RecordTableProps) {
 	return (
 		<table className="record-table">
-			<tbody>
-				<RecordTableHeader />
+			<RecordTableHeader />
+			<tbody className="divide-charcoal-100">
 				{props.itemList.map((item: WantlistRecord) => {
-					return (
-						<tr>
-							<td>
-								<Image src={item.basic_information.thumb} alt={item.basic_information.title} width={40} height={40} />
-							</td>
-							<td>{item.basic_information.title}</td>
-							<td>{}</td>
-							<td>{item.basic_information.year}</td>
-							<td>{item.rating}</td>
-						</tr>
-					);
+					return <RecordTableRow item={item} />;
 				})}
 			</tbody>
 		</table>
@@ -35,31 +24,33 @@ export function RecordTable(props: RecordTableProps) {
 
 function RecordTableHeader() {
 	return (
-		<tr>
-			<th>Cover</th>
-			<th>Artist - Title (Label, Catalog)</th>
-			<th>Format</th>
-			<th>Year</th>
-			<th>Rating</th>
-		</tr>
+		<thead className="table-header">
+			<tr>
+				<th>Cover</th>
+				<th>Artist - Title (Label, Catalog)</th>
+				<th>Format</th>
+				<th>Year</th>
+				<th>Rating</th>
+			</tr>
+		</thead>
 	);
 }
 
-function RecordTableRow(item: WantlistRecord) {
-	let artist = item.basic_information.artists.filter((artist: Artist) => artist.name).join(" / ");
-	let format = item.basic_information.formats.filter((format: Format) => format.name).join(" / ");
+function RecordTableRow(props: RecordTableRowProps) {
+	let artist = props.item.basic_information.artists.filter((artist: Artist) => artist.name).join(" / ");
+	let format = props.item.basic_information.formats.filter((format: Format) => format.name).join(" / ");
 
 	return (
-		<tr>
+		<tr className="table-row">
 			<td>
-				<Image src={item.basic_information.thumb} alt={item.basic_information.title} width={40} height={40} />
+				<Image src={props.item.basic_information.thumb} alt={props.item.basic_information.title} width={40} height={40} />
 			</td>
 			<td>
-				{artist} - {item.basic_information.title}
+				{artist} - {props.item.basic_information.title}
 			</td>
 			<td>{format}</td>
-			<td>{item.basic_information.year}</td>
-			<td>{item.rating}</td>
+			<td>{props.item.basic_information.year}</td>
+			<td>{props.item.rating}</td>
 		</tr>
 	);
 }

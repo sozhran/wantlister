@@ -1,26 +1,27 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-/*:root {
+:root {
 	--background: #ffffff;
 	--foreground: #171717;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
-	--background: #0a0a0a;
-	--foreground: #ededed;
+		--background: #0a0a0a;
+		--foreground: #ededed;
 	}
-}*/
+}
 
 body {
 	background-color: #d4d4d8;
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
 	height: auto;
 	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+}
+
+.main {
 	margin: auto;
 }
 
@@ -102,11 +103,18 @@ h1 {
 }
 
 .record-table {
-	width: 500px;
+	width: 100%;
+	margin: 40px;
 }
 
-table,
-th,
-td {
-	border: 1px solid black;
+.bg-even {
+	background-color: grey;
+}
+.bg-even {
+	background-color: grey;
+}
+
+tr:hover {
+	/*background-color: #64748b;*/
+	background-color: charcoal-100;
 }
